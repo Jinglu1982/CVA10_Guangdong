@@ -1,0 +1,405 @@
+strain	date	country	location	clade	datatype
+LT617117	2010	FRANCE	FRANCE	D	ref
+LT617118	2010	FRANCE	FRANCE	D	ref
+MH118027	2010	India	India	D	ref
+AY421767	1950	USA	USA	A	ref
+MZ441185	2019	China	Other	C	ref
+MZ441186	2019	China	Other	C	ref
+OK570247	2011	Madagascar	Madagascar	C	ref
+OK570248	2011	Madagascar	Madagascar	F	ref
+OK570250	2011	Madagascar	Madagascar	C	ref
+OK570252	2011	Madagascar	Madagascar	C	ref
+OK570260	2011	Madagascar	Madagascar	F	ref
+MT950044	2015	China	Other	C	ref
+MT950045	2015	China	Other	C	ref
+MT950046	2009	China	Other	C	ref
+MW713443	2016	China	Other	C	ref
+ON101704	2014	China	Other	C	ref
+MT350221	2017	China	Other	C	ref
+LC483986	2011	Viet Nam	Viet Nam	C	ref
+LC483987	2013	Viet Nam	Viet Nam	C	ref
+LC483988	2016	Viet Nam	Viet Nam	C	ref
+MT347977	2014	USA	USA	C	ref
+MH118023	2017	India	India	F	ref
+MH118033	2017	India	India	F	ref
+MH118034	2017	India	India	F	ref
+MH118035	2017	India	India	F	ref
+MH118036	2017	India	India	F	ref
+MH118037	2017	India	India	F	ref
+MH118038	2017	India	India	F	ref
+MH118039	2017	India	India	F	ref
+MH118040	2016	India	India	F	ref
+MH118041	2017	India	India	D	ref
+MH118042	2015	India	India	F	ref
+MH118043	2015	India	India	F	ref
+MH118044	2013	India	India	F	ref
+MH118045	2013	India	India	F	ref
+MH118046	2013	India	India	F	ref
+MH118047	2013	India	India	F	ref
+MH118048	2013	India	India	F	ref
+MH118049	2013	India	India	F	ref
+MH118050	2013	India	India	F	ref
+MH118051	2013	India	India	F	ref
+MH118052	2013	India	India	F	ref
+MH118053	2012	India	India	F	ref
+MH118054	2012	India	India	B	ref
+MH118055	2012	India	India	F	ref
+MH118056	2011	India	India	F	ref
+MH118057	2011	India	India	F	ref
+MH118058	2011	India	India	F	ref
+MH118059	2011	India	India	F	ref
+MH118060	2011	India	India	F	ref
+MH118061	2011	India	India	F	ref
+MH118062	2011	India	India	F	ref
+MH118063	2011	India	India	F	ref
+MH118064	2011	India	India	F	ref
+MH118065	2011	India	India	F	ref
+MH118066	2011	India	India	F	ref
+MH118067	2011	India	India	F	ref
+MH118068	2011	India	India	F	ref
+MH118069	2011	India	India	F	ref
+MH118070	2011	India	India	F	ref
+MH118071	2011	India	India	F	ref
+MH118072	2010	India	India	F	ref
+MH118073	2010	India	India	F	ref
+MH118074	2010	India	India	F	ref
+MH118075	2010	India	India	F	ref
+MH118076	2010	India	India	F	ref
+MH118077	2010	India	India	F	ref
+MH118078	2010	India	India	F	ref
+MH118079	2010	India	India	F	ref
+MH118080	2010	India	India	F	ref
+MH118081	2010	India	India	F	ref
+MH118082	2010	India	India	F	ref
+MH118083	2010	India	India	F	ref
+MH118084	2009	India	India	F	ref
+MH118085	2009	India	India	F	ref
+MH118086	2009	India	India	F	ref
+MH118087	2009	India	India	F	ref
+MH118088	2009	India	India	F	ref
+MH118089	2009	India	India	F	ref
+MH118090	2009	India	India	F	ref
+MH144590	2015	India	India	F	ref
+MH144591	2011	India	India	F	ref
+MH144592	2013	India	India	F	ref
+MH144593	2017	India	India	F	ref
+MH144594	2017	India	India	F	ref
+MH144595	2011	India	India	F	ref
+MH144596	2013	India	India	F	ref
+MH144597	2017	India	India	F	ref
+MH144599	2013	India	India	F	ref
+MH144603	2013	India	India	F	ref
+LT719056	2011	Madagascar		F	ref
+LT719057	2011	Madagascar		F	ref
+LT719058	2011	Madagascar		C	ref
+LT719059	2011	Madagascar		C	ref
+LT719060	2011	Madagascar		C	ref
+MF422531	2008	China	Taiwan	B	ref
+MF422532	2008	China	Taiwan	G	ref
+KY012321	2014	China	Other	C	ref
+KX768156	2014	China	Other	C	ref
+KX768157	2014	China	Other	C	ref
+KX768158	2015	China	Other	C	ref
+KX768159	2015	China	Other	C	ref
+KX768160	2015	China	Other	C	ref
+KX768161	2015	China	Other	C	ref
+KX768162	2015	China	Other	C	ref
+KX768163	2015	China	Other	C	ref
+KX768164	2015	China	Other	C	ref
+KX768166	2015	China	Other	C	ref
+KX768167	2015	China	Other	C	ref
+KX768168	2015	China	Other	C	ref
+KX430803	2014	Viet Nam	Viet Nam	C	ref
+KX430804	2014	Viet Nam	Viet Nam	C	ref
+KX430805	2014	Viet Nam	Viet Nam	C	ref
+KX430806	2014	Viet Nam	Viet Nam	C	ref
+KX430807	2014	Viet Nam	Viet Nam	C	ref
+KX430808	2014	Viet Nam	Viet Nam	C	ref
+KX430810	2014	Viet Nam	Viet Nam	C	ref
+KP289394	2013	China	Other	C	ref
+KP289395	2013	China	Other	C	ref
+KP289396	2013	China	Other	C	ref
+KP289397	2013	China	Other	C	ref
+KP289398	2013	China	Other	C	ref
+KP289399	2013	China	Other	C	ref
+KP289400	2013	China	Other	C	ref
+KP289401	2013	China	Other	C	ref
+KP289402	2013	China	Other	C	ref
+KP289403	2013	China	Other	C	ref
+KP289404	2013	China	Other	C	ref
+KP289405	2013	China	Other	C	ref
+KP289406	2013	China	Other	C	ref
+KP289407	2013	China	Other	C	ref
+KP289408	2013	China	Other	C	ref
+KP289409	2013	China	Other	C	ref
+KP289410	2013	China	Other	C	ref
+OR095105	2017	China	Other	C	ref
+OR095106	2017	China	Other	C	ref
+OR095107	2017	China	Other	C	ref
+OR095108	2020	China	Other	C	ref
+OR095109	2019	China	Other	C	ref
+OR095110	2018	China	Other	C	ref
+OR095111	2018	China	Other	C	ref
+OR095112	2018	China	Other	C	ref
+OR095113	2017	China	Other	C	ref
+OR095114	2017	China	Other	C	ref
+OR095115	2018	China	Other	C	ref
+OR095116	2018	China	Other	C	ref
+OR095117	2018	China	Other	C	ref
+OR095118	2018	China	Other	C	ref
+OR095119	2017	China	Other	C	ref
+OR095120	2017	China	Other	C	ref
+OR095121	2017	China	Other	C	ref
+OR095122	2017	China	Other	C	ref
+OR095123	2017	China	Other	C	ref
+OR095124	2018	China	Other	C	ref
+OR095125	2021	China	Other	C	ref
+OR095126	2017	China	Other	C	ref
+OR095127	2017	China	Other	C	ref
+OR095128	2021	China	Other	C	ref
+OR095129	2022	China	Other	C	ref
+OR095130	2020	China	Other	C	ref
+OR095131	2021	China	Other	C	ref
+OR095132	2021	China	Other	C	ref
+OR095133	2021	China	Other	C	ref
+OR095134	2021	China	Other	C	ref
+OR095135	2021	China	Other	C	ref
+OR095136	2021	China	Other	C	ref
+OR095137	2021	China	Other	C	ref
+OR095138	2021	China	Other	C	ref
+OR095139	2021	China	Other	C	ref
+OR095140	2021	China	Other	C	ref
+OR095141	2019	China	Other	C	ref
+OR095142	2019	China	Other	C	ref
+OR095143	2019	China	Other	C	ref
+OR095144	2019	China	Other	C	ref
+OR095145	2019	China	Other	C	ref
+OR095146	2021	China	Other	C	ref
+OR095147	2020	China	Other	C	ref
+OR095148	2020	China	Other	C	ref
+OR095149	2020	China	Other	C	ref
+OR095150	2020	China	Other	C	ref
+OR095151	2021	China	Other	C	ref
+OR095152	2021	China	Other	C	ref
+OR095153	2022	China	Other	C	ref
+OR095154	2022	China	Other	C	ref
+OR095155	2018	China	Other	C	ref
+OR095156	2018	China	Other	C	ref
+OR095157	2019	China	Other	C	ref
+MT828546	2018	China	Other	C	ref
+MT828547	2018	China	Other	C	ref
+MT828548	2018	China	Other	C	ref
+MT828549	2018	China	Other	C	ref
+MW929238	2017	China	Other	C	ref
+MW929239	2018	China	Other	C	ref
+MW929240	2019	China	Other	C	ref
+MW929241	2017	China	Other	C	ref
+MW929242	2019	China	Other	C	ref
+MW929243	2019	China	Other	C	ref
+MW929244	2019	China	Other	C	ref
+MW929245	2019	China	Other	C	ref
+MW929246	2019	China	Other	C	ref
+MW929247	2019	China	Other	C	ref
+MW929248	2019	China	Other	C	ref
+MW929249	2019	China	Other	C	ref
+MW929250	2019	China	Other	C	ref
+MW929251	2018	China	Other	C	ref
+MW929252	2019	China	Other	C	ref
+MW929253	2019	China	Other	C	ref
+MW929254	2019	China	Other	C	ref
+MW929255	2019	China	Other	C	ref
+MW929256	2018	China	Other	C	ref
+MW929257	2018	China	Other	C	ref
+MW929258	2019	China	Other	C	ref
+MW929259	2019	China	Other	C	ref
+MW929260	2017	China	Other	C	ref
+MW929261	2019	China	Other	C	ref
+MW929262	2019	China	Other	C	ref
+MW929263	2019	China	Other	C	ref
+MW929264	2019	China	Other	C	ref
+MW929265	2019	China	Other	C	ref
+MW929266	2018	China	Other	C	ref
+MW929267	2018	China	Other	C	ref
+MW929268	2018	China	Other	C	ref
+MW929269	2018	China	Other	C	ref
+MW929270	2019	China	Other	C	ref
+MW929271	2019	China	Other	C	ref
+MW929272	2019	China	Other	C	ref
+MW929273	2019	China	Other	C	ref
+MW929274	2017	China	Other	C	ref
+MW929275	2018	China	Other	C	ref
+MW929276	2019	China	Other	C	ref
+MW929277	2019	China	Other	C	ref
+MW929278	2018	China	Other	C	ref
+MW929279	2018	China	Other	C	ref
+MW929280	2018	China	Other	C	ref
+MW929281	2016	China	Other	C	ref
+MW929282	2016	China	Other	C	ref
+MW929283	2017	China	Other	C	ref
+MW929284	2017	China	Other	C	ref
+MW929285	2018	China	Other	C	ref
+MW929286	2018	China	Other	C	ref
+MW929287	2018	China	Other	C	ref
+MW929288	2019	China	Other	C	ref
+MW929289	2017	China	Other	C	ref
+MW929290	2018	China	Other	C	ref
+MW929291	2019	China	Other	C	ref
+MW929292	2019	China	Other	C	ref
+MW929293	2019	China	Other	C	ref
+MW929294	2019	China	Other	C	ref
+MW929295	2020	China	Other	D	ref
+MW929296	2020	China	Other	D	ref
+MW929297	2020	China	Other	D	ref
+MW929298	2019	China	Other	C	ref
+MW929299	2019	China	Other	C	ref
+MW929300	2019	China	Other	C	ref
+MW929301	2019	China	Other	C	ref
+MZ491033	2019	China	Other	C	ref
+MZ491034	2019	China	Other	C	ref
+MK867822	2017	China	Other	C	ref
+MK867823	2017	China	Other	C	ref
+MK867824	2017	China	Other	C	ref
+MK867825	2009	China	Other	C	ref
+MK867826	2010	China	Other	C	ref
+MK867827	2015	China	Other	C	ref
+MK867828	2013	China	Other	C	ref
+MK867829	2015	China	Other	C	ref
+MK967667	2015	China	Other	C	ref
+MK967668	2014	China	Other	C	ref
+MK967669	2014	China	Other	C	ref
+MK967670	2014	China	Other	C	ref
+MK967671	2014	China	Other	C	ref
+MT263729	2009	China	Other	C	ref
+MK965226	2018	China	Other	C	ref
+MK965229	2018	China	Other	C	ref
+MK965239	2018	China	Other	C	ref
+MK965241	2018	China	Other	C	ref
+MK791147	2018	China	Other	C	ref
+MK301475	2017	China	Other	C	ref
+MK301476	2018	China	Other	C	ref
+MK301477	2018	China	Other	C	ref
+MK301478	2018	China	Other	C	ref
+MK301479	2018	China	Other	C	ref
+MK814854	2018	China	Other	C	ref
+MK814855	2018	China	Other	C	ref
+MK645898	2012	China	Other	C	ref
+MH111058	2017	Australia	Australia	C	ref
+MH111059	2017	Australia	Australia	C	ref
+MH111060	2016	Australia	Australia	C	ref
+MH111061	2016	Australia	Australia	C	ref
+MH111062	2016	Australia	Australia	C	ref
+MH111063	2017	Australia	Australia	C	ref
+MH111064	2017	Australia	Australia	C	ref
+MH111065	2017	Australia	Australia	C	ref
+MH111066	2017	Australia	Australia	C	ref
+KY271944	2016	USA	USA	C	ref
+KX595287	2013	China	Other	C	ref
+KX595288	2014	China	Other	C	ref
+KX595289	2014	China	Other	C	ref
+KX595290	2015	China	Other	C	ref
+KY272007	2014	China	Other	C	ref
+KY272008	2014	China	Other	C	ref
+KY272009	2014	China	Other	C	ref
+KY272010	2014	China	Other	C	ref
+KT588920	2014	China	Other	C	ref
+KU578126	2014	China	Other	C	ref
+KU578127	2014	China	Other	C	ref
+KU578128	2014	China	Other	C	ref
+KU578129	2014	China	Other	C	ref
+KU578130	2014	China	Other	C	ref
+KU578131	2014	China	Other	C	ref
+KU578132	2014	China	Other	C	ref
+KU578133	2014	China	Other	C	ref
+KU578134	2014	China	Other	C	ref
+KU578135	2014	China	Other	C	ref
+KU578136	2014	China	Other	C	ref
+KP009574	2013	China	Other	C	ref
+KP009575	2013	China	Other	C	ref
+KP009576	2013	China	Other	C	ref
+KP009577	2013	China	Other	C	ref
+KP009578	2013	China	Other	C	ref
+KP009579	2013	China	Other	C	ref
+KP009580	2013	China	Other	C	ref
+KP009581	2013	China	Other	C	ref
+KJ641623	2013	China	Other	C	ref
+HQ728262	2009	China	Other	C	ref
+R425_GD/CHN_2009	2009	China	Guangdong		query
+R770_GD/CHN_2010	2010	China	Guangdong		query
+2079_GD/CHN_2015	2015	China	Guangdong		query
+1660_GD/CHN_2015	2015	China	Guangdong		query
+1438_GD/CHN_2015	2015	China	Guangdong		query
+1208_GD/CHN_2015	2015	China	Guangdong		query
+1091_GD/CHN_2015	2015	China	Guangdong		query
+0800_GD/CHN_2015	2015	China	Guangdong		query
+0394_GD/CHN_2015	2015	China	Guangdong		query
+0276_GD/CHN_2015	2015	China	Guangdong		query
+R548_GD/CHN_2016	2016	China	Guangdong		query
+R547_GD/CHN_2016	2016	China	Guangdong		query
+541_GD/CHN_2016	2016	China	Guangdong		query
+540_GD/CHN_2016	2016	China	Guangdong		query
+520_GD/CHN_2016	2016	China	Guangdong		query
+490_GD/CHN_2016	2016	China	Guangdong		query
+485_GD/CHN_2016	2016	China	Guangdong		query
+454_GD/CHN_2016	2016	China	Guangdong		query
+450_GD/CHN_2016	2016	China	Guangdong		query
+1238_GD/CHN_2017	2017	China	Guangdong		query
+1168_GD/CHN_2017	2017	China	Guangdong		query
+1018_GD/CHN_2017	2017	China	Guangdong		query
+1014_GD/CHN_2017	2017	China	Guangdong		query
+1013_GD/CHN_2017	2017	China	Guangdong		query
+1340_GD/CHN_2017	2017	China	Guangdong		query
+1123_GD/CHN_2017	2017	China	Guangdong		query
+997_GD/CHN_2018	2018	China	Guangdong		query
+965_GD/CHN_2018	2018	China	Guangdong		query
+902_GD/CHN_2018	2018	China	Guangdong		query
+893_GD/CHN_2018	2018	China	Guangdong		query
+877_GD/CHN_2018	2018	China	Guangdong		query
+814_GD/CHN_2018	2018	China	Guangdong		query
+732_GD/CHN_2018	2018	China	Guangdong		query
+726_GD/CHN_2018	2018	China	Guangdong		query
+687_GD/CHN_2018	2018	China	Guangdong		query
+611_GD/CHN_2018	2018	China	Guangdong		query
+594_GD/CHN_2018	2018	China	Guangdong		query
+560_GD/CHN_2018	2018	China	Guangdong		query
+510_GD/CHN_2018	2018	China	Guangdong		query
+487_GD/CHN_2018	2018	China	Guangdong		query
+485_GD/CHN_2018	2018	China	Guangdong		query
+480_GD/CHN_2018	2018	China	Guangdong		query
+R673_GD/CHN_2018	2018	China	Guangdong		query
+963_GD/CHN_2018	2018	China	Guangdong		query
+910_GD/CHN_2018	2018	China	Guangdong		query
+907_GD/CHN_2018	2018	China	Guangdong		query
+835_GD/CHN_2018	2018	China	Guangdong		query
+790_GD/CHN_2018	2018	China	Guangdong		query
+772_GD/CHN_2018	2018	China	Guangdong		query
+763_GD/CHN_2018	2018	China	Guangdong		query
+617_GD/CHN_2018	2018	China	Guangdong		query
+593_GD/CHN_2018	2018	China	Guangdong		query
+563_GD/CHN_2018	2018	China	Guangdong		query
+511_GD/CHN_2018	2018	China	Guangdong		query
+451_GD/CHN_2018	2018	China	Guangdong		query
+449_GD/CHN_2018	2018	China	Guangdong		query
+437_GD/CHN_2018	2018	China	Guangdong		query
+433_GD/CHN_2018	2018	China	Guangdong		query
+0175_GD/CHN_2019	2019	China	Guangdong		query
+1430_GD/CHN_2019	2019	China	Guangdong		query
+1417_GD/CHN_2019	2019	China	Guangdong		query
+1402_GD/CHN_2019	2019	China	Guangdong		query
+1155_GD/CHN_2019	2019	China	Guangdong		query
+0388_GD/CHN_2019	2019	China	Guangdong		query
+0387_GD/CHN_2019	2019	China	Guangdong		query
+741_GD/CHN_2020	2020	China	Guangdong		query
+434_GD/CHN_2020	2020	China	Guangdong		query
+337_GD/CHN_2020	2020	China	Guangdong		query
+293_GD/CHN_2020	2020	China	Guangdong		query
+207_GD/CHN_2020	2020	China	Guangdong		query
+773_GD/CHN_2020	2020	China	Guangdong		query
+494_GD/CHN_2020	2020	China	Guangdong		query
+92_GD/CHN_2021	2021	China	Guangdong		query
+72_GD/CHN_2021	2021	China	Guangdong		query
+144_GD/CHN_2021	2021	China	Guangdong		query
+81_GD/CHN_2021	2021	China	Guangdong		query
+148_GD/CHN_2021	2021	China	Guangdong		query
+147_GD/CHN_2021	2021	China	Guangdong		query
+123_GD/CHN_2021	2021	China	Guangdong		query
+122_GD/CHN_2021	2021	China	Guangdong		query

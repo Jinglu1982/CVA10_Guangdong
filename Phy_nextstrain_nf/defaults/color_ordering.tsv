@@ -1,0 +1,5911 @@
+
+# Asia
+
+### Israel
+# South District
+location	Eilat
+location	South Coast District
+location	Beer-Sheva
+location	Lehavim
+location	Netivot
+location	Alumim
+location	Kiryat Gat
+location	Ashdod
+location	Even Shmuel
+location	Yeruham
+
+# Jerusalem District
+location	Beko'A
+location	Beit Shemesh
+location	Kiryat Ye'Arim
+location	Beitar Ilit
+location	Jerusalem
+
+# Judea and Samaria
+location	Mevo Horon
+location	Modi'in Illit
+location	Kdumim
+
+# Central District
+location	Sde Yitzhak
+location	Orot
+location	Gedera
+location	Sdema
+location	Yavne
+location	Modiin
+location	Ramla
+location	Lod
+location	Nir-Tzvi
+location	Rishon-Letsion
+location	Kfar Habad
+location	Shoham
+location	Yehud
+location	Beerot-Itzhak
+location	Elad
+location	Gani Tikva
+location	Petah Tikva
+location	Kefar Sava
+location	Kfar Saba
+location	Raanana
+location	Rishpon
+location	Pardesia
+location	Netanya
+
+# Tel Aviv District
+location	Bat Yam
+location	Holon
+location	Or-Yehuda
+location	Kiryat Ono
+location	Ramat Gan
+location	Tel-Aviv
+location	Bnei Brak
+location	Ramat-Hasharon
+
+# Haifa District
+location	Ceasaria
+location	Haifa
+
+# North District
+location	Tamra
+location	Yuvalim
+location	Yafa An-Naseriyye
+location	Maalot Tarshicha
+location	Kisra-Sumei
+location	Sakhnin
+location	Nazareth
+location	Arraba
+location	Kafr Kanna
+location	Deir Hanna
+location	Eilabun
+location	Tzfat
+location	Zefat
+location	Tirat Zvi
+location	Hukuk
+location	Tveria
+location	Chaspin
+
+### Palestine
+# Hebron
+location	Fawwar
+location	Halhul
+location	al-Arroub
+
+# Ramallah
+location	Jalazone
+
+# West Bank
+location	Tkoa
+location	Maale-Edumim
+location	Salfit
+location	Elkana
+location	Qalqilya
+location	Tulkarem
+
+# Nablus
+location	Majdal Bani Fadil
+location	Qusra
+location	Balata
+location	Deir al-Hatab
+location	Dahieh
+
+### Saudi Arabia
+# Eastern Province
+location	Qatif
+
+### Kuwait
+# Kuwait
+location	Hawali
+location	Dasman
+
+### Bahrain
+# Capital Governorate
+location	Manama
+
+### Iran
+# Sistan and Baluchestan
+location	Zahedan
+
+### Oman
+# Buraimi
+location	Buraimi
+
+# Dhahirah
+location	Ibri
+
+# South Batinah
+location	Ar Rustaq
+location	Al Awabi
+location	Nakhal
+location	Barka
+
+# Dakhiliyah
+location	Bahla
+location	Nizwa
+location	Manah
+location	Samail
+
+# Muscat
+location	As Seeb
+location	Bawshar
+location	Al Amrat
+location	Mutrah
+location	Qurayyat
+
+# North Sharqiyah
+location	Ibra
+
+### Pakistan
+# Gilgit Baltistan
+location	Gilgit
+
+### India
+# Tamil Nadu
+location	Chennai
+
+# Karnataka
+location	Haveri
+location	Tumakuru
+location	Bengaluru Urban
+location	Chikkaballapura
+location	Kolar
+
+# Andhra Pradesh
+location	Kurnool
+
+# Telangana
+location	Jogulamba Gadwal
+location	Gadwal
+location	Peddapally
+location	Nagarkurnool
+location	Mahbubnagar
+location	Nalgonda
+location	Suryapet
+location	Rangareddy
+location	Vikarabad
+location	Hyderabad
+location	Khammam
+location	Mahboobnagar
+location	Sangareddy
+location	Warangal
+location	Kamareddy
+location	Karimnagar
+location	Nizamabad
+location	Jagtial
+location	Mancherial
+location	Nirmal
+location	Adilabad
+
+# Maharashtra
+location	Virar
+location	Palghar
+location	Mumbai
+location	Vasai
+location	Mumbai Suburban
+location	Thane
+location	Navimumbai
+location	Raigad
+location	Ratnagiri
+location	Pune
+location	Kolhapur
+location	Sangli
+location	Ahmednagar
+location	Aurangabad
+location	Jalna
+location	Hingoli
+location	Akola
+location	Washim
+location	Amravati
+location	Yavatmal
+location	Wardha
+
+# Odisha
+location	Ganjam
+
+# Gujarat
+location	Kodinar
+location	Sutrapada
+location	Veraval
+location	Talala
+location	Mahuva
+location	Bardoli
+location	Surat
+location	Mandvi
+location	Adajan
+location	Kamrej
+location	Choryasi
+location	Olpad
+location	Junagadh
+location	Mangrol
+location	Ghogha
+location	Bharuch
+location	Jetpur
+location	Bhavnagar
+location	Gondal
+location	Kalyanpur
+location	Botad
+location	Khambhaliya
+location	Bodeli
+location	Rajkot
+location	Vadodara
+location	Dhandhuka
+location	Jamnagar
+location	Chuda
+location	Savli
+location	Nadiad
+location	Dholka
+location	Kheda
+location	Godhra
+location	Mahemdavad
+location	Limkheda
+location	Dahod
+location	Savali
+location	Daskroi
+location	Kapadvanj
+location	Ahmedabad
+location	Dahegam
+location	Gandhinagar
+location	Bayad
+location	Kalol
+location	Bhuj
+location	Kadi
+location	Dhansura
+location	Talod
+location	Mansa
+location	Prantij
+location	Modasa
+location	Himatnagar
+location	Mehsana
+location	Patan
+location	Radhanpur
+location	Siddhpur
+location	Fatepura
+location	Khedbrahma
+location	Palanpur
+location	Dhanera
+location	Una
+
+# Madhya Pradesh
+location	Neemach
+location	Mandsaur
+location	Ujjain
+location	Burhanpur
+location	Raisen
+
+# West Bengal
+location	East Medinipur
+location	South 24 Parganas
+location	Kolkata
+location	Howrah
+location	North 24 Parganas
+location	Hooghly
+location	Nadia
+location	Tehatta
+location	Birbhum
+location	Murshidabad
+location	Darjeeling
+
+# Rajasthan
+location	Bikaner
+location	Jaipur
+
+# Uttar Pradesh
+location	Noida
+location	Gaziabad
+location	Muzaffarnagar
+location	Agra
+location	Aligarh
+location	Sambhal
+location	Moradabad
+location	Farrukhabad
+location	Kannauj
+location	Shahjahanpur
+location	Hardoi
+location	Pilibhit
+location	Kanpur
+location	Lakhimpur
+location	Lucknow
+location	Barabanki
+location	Jaunpur
+location	Azamgarh
+location	Gorakhpur
+
+# Delhi
+location	West Delhi
+location	New Delhi
+location	Tughlakabad
+
+# Haryana
+location	Palwal
+location	Faridabad
+location	Gurugram
+location	Panchkula
+
+# Uttarakhand
+location	Roorkee
+location	Dehradun
+location	Haridwar
+location	Uttarkashi
+location	Tehri Garhwal
+location	Pauri Garhwal
+location	Rudraprayag
+location	Chamoli
+
+# Punjab
+location	Rupnagar
+
+# Ladakh
+location	Kargil
+
+### Sri Lanka
+# Kalutara
+location	Beruwala
+
+### Nepal
+# Kathmandu
+location	Kathmandu
+
+### Bangladesh
+# Chattogram
+location	Cox's Bazar
+location	Bandarban
+location	Chittagong
+location	Noakhali
+location	Lakshmipur
+location	Feni
+location	Khagrachari
+location	Chandpur
+location	Comilla
+location	Brahmanbaria
+
+# Khulna
+location	Bagerhat
+location	Satkhira
+location	Jashore
+location	Narail
+location	Magura
+location	Jhenaidah
+
+# Dhaka
+location	Faridpur
+location	Tangail
+location	Dhamrai
+location	Mohammadpur
+location	Mirpur
+location	Agargaon
+location	Uttara
+location	Tejgaon
+location	Gulshan
+location	Dhaka
+location	Jatrabari
+location	Narayanganj
+location	Kodomtoly
+
+# Rajshahi
+location	Pabna
+
+# Sylhet
+location	Habiganj
+location	Moulvibazar
+location	Sunamganj
+
+# Rangpur
+location	Nilphamari
+
+### Malaysia
+# Negeri Sembilan
+location	Rembau
+
+### Singapore
+# Singapore
+location	Singapore
+
+### China
+# Yunnan
+location	Xishuangbanna
+location	Pu'Er
+location	Kunming
+
+# Sichuan
+location	Chengdu
+
+# Chongqing
+location	Yongchuan
+location	Zhongxian
+
+# Hunan
+location	Huaihua
+location	Shaoyang
+
+# Hubei
+location	Jingzhou
+location	Tianmen
+location	Wuhan
+
+# Henan
+location	Zhengzhou
+
+# Guangdong
+location	Zhanjiang
+location	Yangjiang
+location	Foshan
+location	Guangzhou
+location	Zhongshan
+location	Zhuhai
+location	Shaoguan
+location	Dongguan
+location	Shenzhen
+location	Huizhou
+location	Shanwei
+location	Meizhou
+location	Shantou
+
+# Jiangxi
+location	Pingxiang
+location	Yichun
+location	Xinyu
+location	Ganzhou
+location	Jian
+location	Nanchang
+location	Jiujiang
+location	Fuzhou
+location	Yingtan
+location	Shangrao
+
+# Hebei
+location	Xingtai
+location	Shijiazhuang
+
+# Beijing
+location	Beijing
+
+# Anhui
+location	Fuyang
+location	Hefei
+location	Suzhou
+
+# Shandong
+location	Qingdao
+
+# Jiangsu
+location	Changzhou
+location	Huaian
+
+# Zhejiang
+location	Lishui
+location	Yuecheng
+location	Shangyu
+location	Keqiao
+location	Hangzhou
+
+# Liaoning
+location	Dalian
+
+# Heilongjiang
+location	Harbin
+
+### Vietnam
+# Red River Delta
+location	Hanoi
+
+### Hong Kong
+# Hong Kong
+location	Hong Kong
+
+### Indonesia
+# Banten
+location	South Tangerang
+location	Tangerang
+
+# West Java
+location	Depok
+location	Purwakarta
+location	Bandung
+location	Bogor Regency
+location	Tasikmalaya
+
+# Yogyakarta
+location	Sleman
+
+# East Java
+location	Tulungagung
+location	Purwokerto
+location	Sidoarjo
+location	Surabaya
+location	Pasuruan
+
+# East Kalimantan
+location	Samarinda
+
+# East Nusa Tenggara
+location	Kupang
+
+# North Sulawesi
+location	Manado
+
+# Papua
+location	Timika
+
+### Taiwan
+# Taiwan
+location	Kaohsiung
+location	Taoyuan
+location	Taipei
+
+### South Korea
+# Chungcheongnam
+location	Chungcheongnam
+
+# Gyeonggi Province
+location	Uijeongbu
+location	Gyeonggi
+
+# Seoul
+location	Seoul
+
+### Japan
+# Kyoto
+location	Kyoto
+
+# Aichi
+location	Nagoya
+location	Aichi
+
+# Tokyo
+location	Tokyo
+
+################
+
+# Oceania
+
+### New Zealand
+# Auckland
+location	Waitemata
+location	Auckland
+location	Counties Manukau
+
+# Wellington
+location	Capital and Coast
+location	Hutt Valley
+
+### Australia
+# Western Australia
+location	Perth
+
+# Victoria
+location	Clayton AU
+location	Melbourne
+
+# Queensland
+location	Gold Coast
+location	Brisbane
+location	Southeast Queensland
+location	Sunshine Coast
+location	Rockhampton
+location	Northern Queensland
+location	Cairns
+
+# New South Wales
+location	Sydney
+location	Tweed Heads
+
+################
+
+# Africa
+
+### Senegal
+# Dakar
+location	Pikine
+location	Guediawaye
+location	Yeumbeul
+location	Mbao
+location	Keur Massar
+location	Sangalkam
+
+# Thies
+location	Mbour
+
+# Diourbel
+location	Touba
+
+# Kolda
+location	Velingara
+
+### Côte d'Ivoire
+# Bouaké
+location	Brobo
+
+### Morocco
+# Rabat
+location	Ain Aouda
+
+### Burkina Faso
+# Cascades
+location	Banfora
+
+# Hauts-Bassins
+location	Orodara
+location	N'Dorola
+location	Bobo Dioulasso
+location	Houndé
+
+# Sud-Ouest
+location	Batié
+location	Gaoua
+location	Dano
+
+### Ghana
+# Greater Accra
+location	Accra
+
+### Tunisia
+# Medenine
+location	Djerba
+
+# Monastir
+location	Ksar Hellal
+
+# Tunis
+location	La Marsa
+
+### Equatorial Guinea
+# Litoral
+location	Mbini
+location	Bata
+
+# Bioko Sur
+location	Riaba
+
+# Bioko Norte
+location	Malabo
+location	Baney
+
+### South Africa
+# Western Cape Province
+location	West Coast
+location	Cape Town
+location	Klipfontein
+location	Cape Town Metro
+location	Mitchells Plain
+location	Tygerberg
+location	Khayelitsha
+location	Stellenbosch
+location	Bitou
+location	Hessequa
+location	Kannaland
+location	Prince Albert
+location	Mossel Bay
+location	Oudtshoorn
+location	George
+location	Beaufort West
+location	Knysna
+location	Garden Route
+
+# Northern Cape
+location	Namakwa
+location	Siyathemba
+
+# Eastern Cape
+location	Sarah Baartman
+location	Nelson Mandela Bay
+location	Chris Hani
+
+# KwaZulu-Natal
+location	uMkhanyakude
+location	Ugu
+location	Harry Gwala
+location	Umbilo
+location	eThekwini
+location	Berea
+location	Overport
+location	Morningside
+location	uMgungundlovu
+location	KwaDukuza
+location	iLembe
+location	King Cetshwayo
+location	uThukela
+location	uMzinyathi
+location	Zululand
+location	Amajuba
+
+### Egypt
+# Cairo
+location	Al Matariyyah
+
+### Mozambique
+# Gaza
+location	Xai Xai
+
+# Manica
+location	Chimoio
+
+# Cabo Delgado
+location	Pemba
+
+### Madagascar
+# Analamanga
+location	Antananarivo
+
+# Analanjirofo
+location	Fenoarivo
+
+################
+
+# Europe
+
+### Portugal
+# Beja
+location	Santa Clara de Louredo
+
+# Lisbon
+location	Corroios
+location	Aguas livres
+location	São Domingos da Benfica
+location	Buraca
+location	Damaia de Cima
+location	Reboleira
+location	Massama
+location	Queluz
+location	Amadora
+location	Monte Abrão
+location	Pontinha
+location	Encosta de Sol
+location	Cacem
+location	Agualva
+location	Rio de Mouro
+location	Sacavem
+location	Algueirão-Mem Martins
+location	Casal de Cambra
+location	Ramada
+location	Almargem do Bispo
+location	Cova da Moura
+location	Santa Maria dos Olivais
+location	Seia
+
+# Santarem
+location	Santarem
+
+# Coimbra
+location	Penacova
+
+### Ireland
+# Limerick
+location	Limerick City
+
+### Spain
+# Canary Islands
+location	Las Palmas de Gran Canaria
+location	Lanzarote
+
+# Galicia
+location	Muros
+location	Puerto del Son
+location	Ribeira
+location	Puebla del Caraminal
+location	Outes
+location	Noia
+location	Boiro
+location	Lousame
+location	Santa Comba
+location	Rianjo
+location	Negreira
+location	Vigo
+location	Rois
+location	Padrón
+location	Ames
+location	Pontecesures
+location	Bertamirans
+location	Valga
+location	Teo
+location	La Estrada
+location	Vedra
+location	Boqueixón
+location	A Coruna
+location	Oroso
+location	Silleda
+location	Villa de Cruces
+location	Lalin
+location	El Rosal
+location	Santiago de Compostela
+
+# Extremadura
+location	Arroyo de la Luz
+location	Caceres
+location	Plasencia
+location	Malpartida de Plasencia
+location	Jaraicejo
+location	Navalmoral de la Mata
+location	Villanueva de la Vera
+location	Pueblonuevo de Miramontes
+location	Herrera del Duque
+
+# Asturias
+location	Tineo
+location	Somiedo
+location	Pravia
+location	Grado
+location	Oviedo
+location	Mieres
+location	Langreo
+location	Gijon
+location	Siero
+location	Bimenes
+location	Laviana
+location	Panes
+
+# Andalusia
+location	Rota
+location	Puerto Santa Maria
+location	Cadiz
+location	Rio San Pedro
+location	San Fernando ES
+location	Chiclana de la Frontera
+location	Jerez De La Frontera
+location	Conil de la Frontera
+location	Mairena Aljarafe
+location	Sevilla
+location	Cordoba ES
+location	Tarifa
+location	Algeciras
+location	San Roque ES
+location	La Linea de la Concepcion
+location	Benalmadena
+location	Antequera
+location	Alhaurin de la Torre
+location	Torremolinos
+location	Malaga
+location	Rincon de la Victoria
+location	Benajarafe
+location	Loja
+location	Velez Malaga
+location	Torre del Mar
+location	Castillo de Locubin
+location	Alcala la Real
+location	Illora
+location	Nerja
+location	Frailes
+location	Valderrubio
+location	Cijuela
+location	Fuente Vaqueros
+location	Pinos Puente
+location	Santa Fe ES
+location	Vegas del Genil
+location	Las Gabias
+location	Atarfe
+location	Benalua de las Villas
+location	Cullar Vega
+location	Albolote
+location	Alhendin
+location	Churriana de la Vega
+location	Otura
+location	Maracena
+location	Ogijares
+location	Pulianas
+location	Granada
+location	Guevejar
+location	Jun
+location	La Zubia
+location	Cogollos de la Vega
+location	Durcal
+location	Alfacar
+location	Iznalloz
+location	Huetor Santillan
+location	Ubeda
+location	Navas de San Juan
+location	La Peza
+location	Alamedilla
+location	Fonelas
+location	Guadix
+location	Zujar
+location	Castril
+location	Cortijos Nuevos
+location	Huescar
+location	Almeria
+location	Puebla de Don Fadrique
+
+# Castilla y Leon
+location	Brazuelo
+location	Val de San Lorenzo
+location	Valdeviejas
+location	Astorga
+location	La Carrera de Otero
+location	Castro de Cepeda
+location	San Roman de la Vega
+location	Posada de la Valduerna
+location	Riego de la Vega
+location	Leon
+location	Antonan del Valle
+location	Estebanez de la Calzada
+location	Palacios de la Valduerna
+location	San Cristobal de la Polantera
+location	Villarejo de Orbigo
+location	La Baneza
+location	Benavides de Orbigo
+location	Veguellina de Orbigo
+location	San Pedro de Pegas
+location	Castrillo de San Pelayo
+location	Bercianos del Paramo
+location	Montejos del Camino
+location	La Virgen del Camino
+location	Quintana de Raneros
+location	La Robla
+location	San Andres del Rabanedo
+location	Trobajo del Camino
+location	Villaquilambre
+location	Villaobispo de las Regueras
+location	Garrafe de Torio
+location	Valencia de Don Juan
+location	Villaturiel
+
+# Cantabria
+location	Comillas
+location	Cabezon de la Sal
+location	Santillana
+location	Puente San Miguel
+location	Los Corrales de Buelna
+location	Santiago de Cartes
+location	Torrelavega
+location	Suances
+location	Polanco
+location	Zurita
+location	Carandia
+location	Valderredible
+location	Pielagos
+location	Renedo
+location	Oruna
+location	Liencres
+location	Santa Cruz de Bezana
+location	La Penilla
+location	Muriedas
+location	Santa Maria de Cayon
+location	Maliano
+location	Santander
+location	Pontejos
+location	Marina de Cudeyo
+location	Solares
+location	San Roque de Riomiera
+location	Ramales de la Victoria
+location	Santona
+location	Laredo
+location	Ampuero
+location	Castro Urdiales
+
+# Madrid
+location	Galapagar
+location	Mostoles
+location	Fuenlabrada
+location	Soto del Real
+location	Parla
+location	Leganés
+location	Colmenar Viejo
+location	Getafe
+location	Madrid
+location	Alcobendas
+location	Pedrezuela
+location	Rivas-Vaciamadrid
+location	San Fernando de Henares
+location	Arganda del Rey
+location	Campo Real
+location	Alcala de Henares
+location	Las Rozas
+location	Valdaracete
+location	Ambite
+location	Estremera
+
+# Castilla la Mancha
+location	Ayna
+location	Cuenca ES
+location	Socuellamos
+location	Belmonte
+location	Villarrobledo
+location	San Clemente
+location	Riopar
+location	Lezuza
+location	Bogarra
+location	Balazote
+location	Villanueva de la Jara
+location	Tazona
+location	Albacete
+location	Madrigueras
+location	Motilleja
+location	Mingogil
+location	Hellin
+location	Tobarra
+location	Almansa
+
+# La Rioja
+location	Leiva
+location	Ezcaray
+location	Ojacastro
+location	Santo Domingo de la Calzada
+location	Casalarreina
+location	Ciruena
+location	Haro
+location	Badaran
+location	San Vicente de la Sonsierra
+location	Najera
+location	Hormilleja
+location	Camprovin
+location	Aleson
+location	Torrecilla en Cameros
+location	Navarrete
+location	Nalda
+location	Albelda de Iregua
+location	Lardero
+location	Logrono
+location	Alberite
+location	Clavijo
+location	Puente Madre
+location	Villamediana de Iregua
+location	Agoncillo
+location	Herce
+location	Tudelilla
+location	Arnedo
+location	El Villar de Arnedo
+location	Pradejon
+location	Autol
+location	Calahorra
+location	Ventas del Bano
+location	Aldeanueva de Ebro
+location	Rincon de Soto
+location	Alfaro
+
+# Basque Country
+location	Musques
+location	Ortuella
+location	Santurtzi
+location	Portugalete
+location	Trapaga
+location	Getxo
+location	Baracaldo
+location	Leioa
+location	Sopelana
+location	Erandio
+location	Bilbao
+location	Atxuri
+location	Derio
+location	Bermeo
+location	Bizkaia
+location	Vitoria-Gasteiz
+location	Muskiz
+location	Deba
+location	Mallabia
+location	Mondragon
+location	Eibar
+location	Mendaro
+location	Zumarraga
+location	Ordizia
+location	Zarauz
+location	Tolosa
+location	San Sebastian
+location	Donostia-San Sebastian
+location	Hernani
+location	Irun
+
+# Navarra
+location	Fitero
+location	Tudela
+location	Cintruenigo
+location	Peralta
+location	Lodosa
+location	Viana
+location	Tafalla
+location	Artajona
+location	Barasoain
+location	Echavarri
+location	Torres De Elorz
+location	Zulueta
+location	Noain
+location	Cizur Menor
+location	Zizur Mayor
+location	Mutilva
+location	Baranain
+location	Pamplona
+location	Sarriguren
+location	Mendillorri
+location	Burlada
+location	Huarte
+location	Villava
+location	Gartzain
+
+# Murcia
+location	Murcia
+
+# Aragon
+location	Teruel
+location	Alcaniz
+location	Caspe
+location	Fraga
+location	Zaragoza
+location	Tamarite de Litera
+location	Monzon
+location	Ayerbe
+
+# Comunitat Valenciana
+location	Miramar
+location	Almenara
+location	Chilches
+location	Villena
+location	Monovar
+location	Elda
+location	Novelda
+location	Antella
+location	Llombai
+location	Olleria
+location	Massalaves
+location	Carlet
+location	Segorbe
+location	Guadassuar
+location	Alginet
+location	Torrent
+location	Picassent
+location	Alaquas
+location	Carcaixent
+location	Beniganim
+location	Quart de Poblet
+location	Algemesi
+location	Alzira
+location	Soneja
+location	Benifaio
+location	Valencia Horta
+location	Almussafes
+location	Albal
+location	Godella
+location	Sollana
+location	Valencia ES
+location	Bonrepos i Mirambell
+location	Tavernes Blanques
+location	Museros
+location	Almassera
+location	Llutxent
+location	Alboraya
+location	Alboraia
+location	Meliana
+location	Albalat dels Sorells
+location	Gilet
+location	Massamagrell
+location	Albuixech
+location	Sueca
+location	Simat de la Valldigna
+location	El Puig
+location	Favara
+location	Sagunt
+location	Tavernes de la Valldigna
+location	Cullera
+location	Grau de Sagunt
+location	El Dosel
+location	Palma de Gandia
+location	Canet d'en Berenguer
+location	Xeraco
+location	Benirredra
+location	Gandia
+location	Piles
+location	Oliva
+location	Castello de la Plana
+location	Castellon de la Plana
+location	Puzol
+
+# Catalunya
+location	Cambrils
+location	Jorba
+location	Bellavista
+location	Navas
+location	Vallirana
+location	Terrassa
+location	Santa Coloma de Cervello
+location	San Cugat del Valles
+location	El Prat de Llobregat
+location	Moia
+location	L'Hospitalet de Llobregat
+location	Sabadell
+location	Cerdanyola del Valles
+location	Barcelona
+location	Ripollet
+location	Palau Solita i Plegamans
+location	Santa Perpetua de Mogoda
+location	Moncada y Reixach
+location	La Llagosta
+location	Santa Coloma de Gramenet
+location	Bigues I Riells
+location	Mollet del Valles
+location	Sant Adria del Besos
+location	Parets del Valles
+location	Lliça de Vall
+location	Badalona
+location	Vic
+location	Tiana
+location	Canovelles
+location	Granollers
+location	Alella
+location	El Masnou
+location	Teia
+location	La Roca del Valles
+location	Cardedeu
+location	Premia de Mar
+location	Vilasar de Mar
+location	Llinars del Valles
+location	Mataro
+location	Arenys de Munt
+location	Calella
+location	Pineda de Mar
+location	Malgrat de Mar
+location	Gerona
+location	Palamos
+
+# Balear Islands
+location	Formentera
+location	Ibiza
+location	Santa Ponca
+location	Calvia
+location	Palma
+location	Palma de Mallorca
+location	Pont d'Inca
+location	Soller
+location	Can Pastilla
+location	Marratxí
+location	Santa Maria del Camino
+location	Lluchmayor
+location	Inca
+location	Llubi
+location	Pollenca
+location	Campos
+location	Sa Pobla
+location	Muro
+location	Vilafranca de Bonany
+location	Santa Margalida
+location	Alcudia
+location	Santany
+location	Manacor
+location	Son Servera
+location	Menorca
+location	Mahon
+
+### United Kingdom
+# Gibraltar
+location	Gibraltar
+
+# Wales
+location	Cardiff
+
+# England
+location	Derbyshire
+location	Yorkshire
+location	South Yorkshire
+location	Nottinghamshire
+location	Northamtonshire
+location	London
+location	Warwickshire
+
+### France
+# Bretagne
+location	Ploudalmezeau
+location	Lannilis
+location	Brest
+location	Quimper
+location	Chateaulin
+location	Morlaix
+location	Saint Pierre Quiberon
+location	Arradon
+location	Pordic
+location	Saint-Brieuc
+location	Vannes
+location	Sene
+location	La Rochelle
+location	Cayenne
+location	Betton
+location	Fougères
+location	Rennes
+
+# Pays de la Loire
+location	Nantes
+
+# Normandie
+location	Carentan
+location	Bernieres-le-Patry
+location	Rouen
+
+# Nouvelle-Aquitaine
+location	Pau
+location	Anglet
+location	La Brède
+location	Bordeaux
+location	Notre-Dame-de-Sanilhac
+location	Limoges
+location	Poitiers
+
+# Centre-Val de Loire
+location	Fondettes
+location	Rouziers-de-Touraine
+location	Tours
+location	Blois
+location	Abondant
+location	Angers
+location	Craon
+
+# Ile de France
+location	Mantes-la-Jolie
+location	Limay
+location	Montigny le Bretonneux
+location	Noisy le Roi
+location	Cergy
+location	Guyancourt
+location	Saint Germain en Laye
+location	Pontoise
+location	Le Pecq
+location	Le Chesnay
+location	Orsay
+location	Garches
+location	Meudon la Forêt
+location	Puteaux
+location	Essonne
+location	Boulogne Billancourt
+location	Argenteuil
+location	Colombes
+location	Verrières-le-Buisson
+location	Asnières-sur-Seine
+location	Levallois-Perret
+location	Vanves
+location	Gennevilliers
+location	Longjumeau
+location	Paris
+location	Groslay
+location	Juvisy-sur-Orge
+location	Sarcelles
+location	Thiais
+location	Villeneuve St Georges
+location	Seine-Port
+location	Plessis Trevise
+location	Moussy Le Neuf
+location	Compans
+location	Saint-Thibault-des-Vignes
+location	Chanteloup-en-Brie
+location	Egreville
+
+# Hauts de France
+location	Nogent-l'Artaud
+location	Chateau-Thierry
+location	Crouy en Thelle
+location	Crépy en Valois
+location	Compiègne
+location	Amiens
+location	Saint-Saulve
+location	Crespin
+location	Nord Pas de Calais
+location	Flines-lès-Mortagne
+location	Genech
+location	Santes
+location	Lille
+location	Lyz-Les-Lannoy
+location	Leers
+location	Wambrechies
+location	Roubaix
+location	Tourcoing
+location	Bousbecque
+
+# Occitanie
+location	Toulouse
+location	Caraman
+location	Saint-Gely-Du-Fesc
+location	Montpellier
+location	Nîmes
+
+# Auvergne-Rhône-Alpes
+location	Clermont-Ferrand
+location	Mazet-Saint-Voy
+location	Andrézieux-Bouthéon
+location	Saint-Etienne
+location	Tarare
+location	Privas
+location	Pollionnay
+location	Craponne
+location	Saint-Genis-Les-Ollieres
+location	Villefranche-sur-Saône
+location	Macon
+location	Lyon
+location	Venissieux
+location	Valence
+location	Saint-Priest
+location	Decines
+location	Saint-Jean-de-Bournay
+location	Bourg-en-Bresse
+location	Bourgoin-Jallieu
+location	Saint-Verand
+location	Montagnieu
+location	Oyonnax
+location	Grenoble
+location	Chambery
+location	Saint-Julien-en-Genevois
+location	Contamine-sur-Arve
+location	Cluses
+location	Contamines
+location	Vienne
+
+# Bourgogne-France-Comté
+location	St Clément
+location	Montcenis
+location	Chalon sur Saone
+location	Dijon
+location	Thise
+location	Montreux-Chateau
+
+# Grand Est
+location	Reims
+location	Troyes
+location	Champagne Ardenne
+location	Gondrecourt-le-Chateau
+location	Tucquegnieux
+location	Crusnes
+location	Joeuf
+location	Fameck
+location	Marange Silvange
+location	Amneville
+location	Woippy
+location	Montigny Les Metz
+location	Maizières Les Metz
+location	Talange
+location	Metz
+location	Nancy
+location	Ottonville
+location	Ham Sous Varsberg
+location	Munster
+location	Spicheren
+location	Sarreguemines
+location	Thann
+location	Soultzeren
+location	Murbach
+location	Guebwiller
+location	Soultz Haut Rhin
+location	Liepvre
+location	Ingersheim
+location	Ensisheim
+location	Reguisheim
+location	Biesheim
+location	Brumath
+location	Strasbourg
+location	Bischheim
+
+# Provence-Alpes-Côte d'Azur
+location	Marignane
+location	Marseille
+location	Toulon
+location	Draguignan
+location	Embrun
+location	Frejus
+location	Saint-Vallier-de-Thiey
+location	Cannes
+location	Nice
+
+# Lorraine
+location	Epinal
+
+# Corse
+location	Porto-Vecchio
+
+### Belgium
+# Veurne
+location	Beveren
+
+# Diksmuide
+location	Lo-Reninge
+location	Beerst
+location	Kortemark
+
+# Ieper
+location	Poperinge
+location	Vlamertinge
+location	Langemark
+location	Geluwe
+
+# Oostende
+location	Oudenburg
+location	Ettelgem
+
+# Brugge
+location	Torhout
+location	Assebroek
+location	Blankenberge
+location	Knokke-Heist
+
+# Kortrijk
+location	Wevelgem
+location	Kuurne
+location	Hulste
+location	Harelbeke
+location	Deerlijk
+location	Avelgem
+location	Anzegem
+
+# Tielt
+location	Oostrozebeke
+location	Meulebeke
+location	Wingene
+
+# Tournai-Mouscron
+location	Ploegsteert
+location	Comines-Warneton
+location	Comines
+location	Luingne
+location	Herseaux
+location	Mouscron
+location	Estaimpuis
+location	Templeuve
+location	Hertain
+location	Blandain
+location	Estaimbourg
+location	Ramegnies-Chin
+location	Froyennes
+location	Guignies
+location	Ere
+location	Kain
+location	Brunehaut
+location	Tournai
+location	Chercq
+location	Gaurain-Ramecroix
+location	Callenelle
+location	Péruwelz
+location	Braffe
+location	Roucourt
+location	Bury
+location	Willaupuis
+location	Bon-Secours
+location	Thieulain
+location	Tourpes
+location	Blicquy
+
+# Eeklo
+location	Maldegem
+location	Assenede
+
+# Oudenaarde
+location	Ronse
+location	Bevere
+
+# Gent
+location	Lotenhulle
+location	Deinze
+location	Nevele
+location	Lovendegem
+location	Asper
+location	Mariakerke
+location	Gent
+location	Merelbeke
+location	Bottelare
+location	Gentbrugge
+location	Oosterzele
+
+# Ath
+location	Quevaucamps
+location	Wadelincourt
+location	Buissenal
+location	Blaton
+location	Ellezelles
+location	Harchies
+location	Beloeil
+location	Stambruges
+location	Flobecq
+location	Ladeuze
+location	Lessines
+location	Brugelette
+location	Bassilly
+location	Enghien
+
+# Mons
+location	Honnelles
+location	Thulin
+location	Dour
+location	Sirault
+location	Villerot
+location	Neufmaison
+location	Boussu
+location	Saint-Ghislain
+location	Tertre
+location	Hornu
+location	Baudour
+location	Colfontaine
+location	Bauffe
+location	Quaregnon
+location	Frameries
+location	Flénu
+location	Ghlin
+location	Jemappes
+location	Jurbise
+location	Cuesmes
+location	Quévy
+location	Nimy
+location	Harmignies
+location	Saisinne
+location	Givry
+location	Havré
+
+# Soignies
+location	Neufvilles
+location	Casteau
+location	Horrues
+location	Naast
+location	Le Roeulx
+location	Braine-le-Comte
+location	Hennuyères
+location	Écaussinnes
+location	Seneffe
+
+# Aalst
+location	Geraardsbergen
+location	Herzele
+location	Erpe-Mere
+
+# Dendermonde
+location	Kalken
+location	Zele
+location	Waasmunster
+location	Hamme
+location	Buggenhout
+
+# Sint-Niklaas
+location	Stekene
+location	Sint-Gillis-Waas
+location	Temse
+location	Bazel
+
+# La Louvière
+location	Haulchin
+location	Maurage
+location	Strépy-Bracquegnies
+location	Binche
+location	Morlanwelz
+
+# Thuin
+location	Fontaine-Valmont
+location	Anderlues
+
+# Nivelles
+location	Rebecq
+location	Tubize
+location	Ittre
+location	Braine-le-Château
+location	Ophain-Bois-Seigneur-Isaac
+location	Braine-l'Alleud
+location	Lillois-Witterzée
+location	Thines
+location	Waterloo
+location	Loupoigne
+location	Genappe
+location	Lasne
+location	La Hulpe
+location	Genval
+location	Rixensart
+location	Villers-la-Ville
+location	Ottignies-Louvain-la-Neuve
+location	Court-Saint-Étienne
+location	Ottignies
+location	Wavre
+location	Mont-Saint-Guibert
+location	Chastre
+location	Pécrot
+location	Chaumont-Gistoux
+location	Beauvechain
+location	Perwez
+location	Mélin
+location	Glimes
+location	Jodoigne
+location	Autre-Église
+
+# Brussels
+location	Moriensart
+location	Watermael-Boitsfort
+location	Uccle
+location	Auderghem
+location	Forest
+location	Saint-Gilles
+location	Ixelles
+location	Anderlecht
+location	Woluwe-Saint-Pierre
+location	Etterbeek
+location	Woluwe-Saint-Lambert
+location	Bruxelles
+location	Saint-Josse-ten-Noode
+location	Molenbeek-Saint-Jean
+location	Koekelberg
+location	Berchem-Sainte-Agathe
+location	Schaerbeek
+location	Evere
+location	Ganshoren
+location	Jette
+location	Laken
+location	Haren
+
+# Antwerpen
+location	Berchem
+location	Niel
+location	Hemiksem
+location	Boom
+location	Aartselaar
+location	Wilrijk
+location	Hoevenen
+location	Ekeren
+location	Kapellen
+location	Merksem
+location	Kontich
+location	Edegem
+location	Deurne
+location	Kalmthout
+location	Borsbeek
+location	Brasschaat
+location	Schoten
+location	Boechout
+location	Wijnegem
+location	Vremde
+location	Wommelgem
+location	's-Gravenwezel
+location	Ranst
+location	Broechem
+location	Zoersel
+location	Malle
+location	Oostmalle
+
+# Halle-Vilvoorde
+location	Shape
+location	Affligem
+location	Asse
+location	Halle
+location	Dilbeek
+location	Londerzeel
+location	Wemmel
+location	Beersel
+location	Sint-Genesius-Rode
+location	Grimbergen
+location	Humbeek
+location	Vilvoorde
+location	Sint-Stevens-Woluwe
+location	Diegem
+location	Machelen
+location	Kraainem
+location	Zaventem
+location	Sterrebeek
+location	Hoeilaart
+location	Melsbroek
+location	Wezembeek-Oppem
+location	Steenokkerzeel
+location	Nossegem
+location	Overijse
+location	Berg
+location	Kampenhout
+
+# Charleroi
+location	Forchies-la-Marche
+location	Fontaine-l'Évêque
+location	Trazegnies
+location	Courcelles
+location	Goutroux
+location	Montigny-le-Tilleul
+location	Monceau-sur-Sambre
+location	Pont-à-Celles
+location	Luttre
+location	Marcinelle
+location	Jumet
+location	Couillet
+location	Ransart
+location	Montignies-sur-Sambre
+location	Mellet
+location	Châtelet
+location	Aiseau
+location	Buzet
+
+# Mechelen
+location	Weert
+location	Sint-Amands
+location	Bornem
+location	Lippelo
+location	Puurs
+location	Breendonk
+location	Willebroek
+location	Blaasveld
+location	Leest
+location	Duffel
+location	Bonheiden
+location	Lier
+location	Koningshooikt
+location	Putte
+location	Nijlen
+location	Bevel
+location	Schriek
+location	Heist-op-den-Berg
+
+# Philippeville
+location	Couvin
+
+# Leuven
+location	Tervuren
+location	Duisburg
+location	Hever
+location	Erps-Kwerps
+location	Kortenberg
+location	Everberg
+location	Boortmeerbeek
+location	Huldenberg
+location	Veltem-Beisem
+location	Keerbergen
+location	Bertem
+location	Haacht
+location	Wespelaar
+location	Winksele
+location	Herent
+location	Sint-Joris-Weert
+location	Oud-Heverlee
+location	Werchter
+location	Wilsele
+location	Wijgmaal
+location	Heverlee
+location	Leuven
+location	Rotselaar
+location	Blanden
+location	Haasrode
+location	Kessel-Lo
+location	Baal
+location	Holsbeek
+location	Linden
+location	Bierbeek
+location	Begijnendijk
+location	Lubbeek
+location	Boutersem
+location	Aarschot
+location	Langdorp
+location	Kumtich
+location	Tielt-Winge
+location	Hoegaarden
+location	Molenbeek-Wersbeek
+location	Tienen
+location	Bost
+location	Bunsbeek
+location	Glabbeek
+location	Scherpenheuvel-Zichem
+location	Averbode
+location	Bekkevoort
+location	Kersbeek-Miskom
+location	Molenstede
+location	Kaggevinne
+location	Linter
+location	Kortenaken
+location	Waasmont
+location	Diest
+location	Landen BE
+location	Zoutleeuw
+location	Geetbets
+
+# Namur
+location	Arbre
+location	Ligny
+location	Aisemont
+location	Jemeppe-sur-Sambre
+location	Gembloux
+location	Beuzet
+location	Temploux
+location	Grand-Leez
+location	Bovesse
+location	Bois-de-Villers
+location	Erpent
+location	Champion
+location	Éghezée
+location	Andenne
+
+# Dinant
+location	Rochefort
+location	Ciney
+location	Maffe
+location	Havelange
+
+# Turnhout
+location	Beerse
+location	Grobbendonk
+location	Hoogstraten
+location	Rijkevorsel
+location	Vorselaar
+location	Ramsel
+location	Herentals
+location	Merksplas
+location	Gierle
+location	Herselt
+location	Vosselaar
+location	Olen
+location	Geheul
+location	Oevel
+location	Westerlo
+location	Kasterlee
+location	Veerle
+location	Geel
+location	Laakdal
+location	Oud-Turnhout
+location	Ravels
+location	Poppel
+location	Meerhout
+location	Retie
+location	Arendonk
+location	Dessel
+location	Olmen
+location	Balen
+location	Mol
+
+# Huy
+location	Burdinne
+location	Couthuin
+location	Wanze
+location	Antheit
+location	Yernée-Fraineux
+
+# Waremme
+location	Hannut
+location	Berloz
+location	Lamine
+
+# Hasselt
+location	Tessenderlo
+location	Halen
+location	Ham
+location	Paal
+location	Lummen
+location	Herk-de-Stad
+location	Sint-Truiden
+location	Nieuwerkerken
+location	Beverlo
+location	Beringen
+location	Heppen
+location	Stevoort
+location	Kermt
+location	Zolder
+location	Koersel
+location	Heusden-Zolder
+location	Zonhoven
+location	Genk
+
+# Tongeren
+location	Alken
+location	Beverst
+location	Bilzen
+location	Riemst
+location	Lanaken
+location	Maasmechelen
+location	Eisden
+
+# Liège
+location	Bierset
+location	Ans
+location	Seraing
+location	Voroux-lez-Liers
+location	Bressoux
+location	Herstal
+location	Dolembreux
+location	Wandre
+location	Saive
+location	Soumagne
+location	Dalhem
+
+# Maaseik
+location	Lommel
+location	Houthalen-Helchteren
+location	Overpelt
+location	Neerpelt
+location	Peer
+location	Grote-Brogel
+location	Kaulille
+location	Oudsbergen
+location	Bocholt
+location	Bree
+
+# Verviers
+location	Herve
+location	Theux
+location	Chaineux
+location	Limbourg BE
+location	Henri-Chapelle
+location	Membach
+location	Kelmis
+location	Eupen
+location	Büllingen
+
+### Netherlands
+# St Eustatius
+location	St Eustatius
+
+# South Holland
+location	Delft
+location	Nootdorp
+location	Rotterdam
+location	Hardinxveld Giessendam
+
+# North Holland
+location	Haarlem
+location	Beverwijk
+location	Schiphol
+location	Amsterdam West
+location	Diemen
+location	Katwoude
+location	Wervershoof
+location	Naarden
+
+# Utrecht
+location	Overvecht
+location	Utrecht
+location	Houten
+location	Amersfoort
+
+# North Brabant
+location	Nieuwendijk
+location	Tilburg
+location	Andel
+location	Loon op zand
+location	Oisterwijk
+location	Blaricum
+location	Berlicum
+location	Heeswijk Dinther
+location	Eindhoven
+location	Oss
+location	Helmond
+location	Milheeze
+
+# Flevoland
+location	Zeewolde
+
+# Friesland
+location	Franeker
+
+# Gelderland
+location	Apeldoorn
+
+# Drenthe
+location	Meppel
+location	Coevorden
+location	Dalen
+
+### Luxembourg
+# Luxembourg
+location	Luxembourg
+
+### Norway
+# Vestland
+location	Bergen
+
+### Denmark
+# Faroe Islands
+location	Faroe Islands
+
+### Germany
+# Rheinland-Pfalz
+location	Daleiden
+location	Koblenz
+location	Vallendar
+location	Kaiserslautern
+location	Nastatten
+location	Mainz
+location	Germersheim
+
+# North Rhine Westphalia
+location	Heinsberg
+location	Heinsberg District
+location	Kaarst
+location	Duesseldorf
+location	Muelheim
+location	Rheinbach
+location	Cologne
+location	Essen
+location	Greven
+location	Münster
+location	Bielefeld
+
+# Niedersachsen
+location	Hannover
+
+# Baden-Wuerttemberg
+location	Konstanz
+location	Bad Krozingen
+location	Tuttlingen
+location	Pfaffenweiler
+location	Villingen-Schwenningen
+location	Sigmaringen
+location	Rottweil
+location	Tuebingen
+location	Gaufelden
+location	Buehl
+location	Muehlacker
+location	Oftersheim
+location	Heidelberg
+location	Mannheim
+
+# Hesse
+location	Wiesbaden
+location	Bad Camberg
+location	Ginsheim
+location	Solms
+location	Nauheim
+location	Hattersheim
+location	Bad Soden Am Taunus
+location	Moerfelden-Walldorf
+location	Pfungstadt
+location	Bad Homburg
+location	Lohra
+location	Frankfurt
+location	Fronhausen
+location	Neu-Isenburg
+location	Dreieich
+location	Bad Vilbel
+location	Offenbach Am Main
+location	Roedermark
+location	Offenbach
+location	Maintal
+location	Obertshausen
+location	Klein-Zimmern
+location	Nidderau
+location	Hanau
+location	Kirchhain
+location	Langenselbold
+location	Gruendau
+location	Fulda
+
+# Schleswig-Holstein
+location	Norderstedt
+
+# Thuringia
+location	Jena
+
+# Bavaria
+location	Hettstadt
+location	Prichsenstadt
+location	Dirlewang
+location	Schlusselfeld
+location	Gerhardshofen
+location	Fuerth
+location	Erlangen
+location	Nuremberg
+location	Starnberg
+location	Munich
+location	Raubling
+location	Schierling
+location	Neutraubling
+location	Roding
+
+# Mecklenburg-Vorpommern
+location	Rostock
+
+# Saxony
+location	Hammerbach
+location	Dresden
+
+### Italy
+# Piedmont
+location	Turin
+
+# Sardinia
+location	Nuoro
+
+# Lombardy
+location	Pavia
+location	Milan
+
+# Tuscany
+location	Siena
+location	Florence
+
+# Veneto
+location	Verona IT
+location	Vicenza
+location	Padova
+location	Treviso
+location	Rovigo
+
+# Lazio
+location	Rome
+
+# Friuli Venezia Giulia
+location	Trieste
+location	Gorizia
+
+# Marche
+location	Ancona
+
+# Abruzzo
+location	L'Aquila
+location	Teramo
+
+# Sicily
+location	Palermo
+
+# Campania
+location	Naples
+location	Benevento
+
+# Basilicata
+location	Potenza
+location	Matera
+
+# Apulia
+location	Foggia
+location	Barletta-Andria-Trani
+location	Bari
+location	Taranto
+location	Martina Franca
+location	Brindisi
+location	Lecce
+
+### Sweden
+# Småland
+location	Jönköping
+
+### Austria
+# Tyrol
+location	Galtür
+location	St. Anton
+location	Ischgl
+location	Kappl
+location	Pettneu Am Arlberg
+location	Elbigenalp
+location	See
+location	Nauders
+location	Pfunden
+location	Zams
+location	Tösens
+location	Laengenfeld
+location	Sölden
+location	Seefeld in Tirol
+location	Kematen in Tirol
+location	Innsbruck
+location	Aldrans
+location	Matrei am Brenner
+location	Thaur
+location	Sistrans
+location	Steinach am Brenner
+location	Strass im Zillertal
+location	Mayrhofen
+location	Ramsau im Zillertal
+location	Kufstein
+
+# Salzburg
+location	Bad Gastein
+
+# Upper Austria
+location	Losenstein
+location	Altenhof Am Hausruck
+location	Linz
+location	Hochficht
+
+### Czech Republic
+# Plzeň Region
+location	Tachov
+location	Domažlice
+location	Dobřany
+location	Klatovy
+location	Plzeň
+
+# Usti nad Labem
+location	Chomutov
+location	Litvinov
+location	Teplice
+location	Telnice
+location	Třebenice
+location	Všebořice
+location	Tisá
+location	Sulejovice
+location	Libochovice
+location	Litomerice
+location	Děčín
+location	Račice
+
+# Prague
+location	Sedlec
+location	Prague-Miskovice
+location	Kvetnice
+
+# Southern Bohemia Region
+location	Šumavské Hoštice
+location	Prachatice
+location	Pisek
+location	Netolice
+location	Český Krumlov
+location	Dubné
+location	České Budějovice
+location	Dobrá Voda
+location	Jindřichův Hradec
+
+# Central Bohemian Region
+location	Malinová
+location	Nové Strašecí
+location	Příbram
+location	Králův Dvůr
+location	Beroun
+location	Chýně
+location	Veltrusy
+location	Únětice
+location	Zdiby
+location	Bášť
+location	Neratovice
+location	Krhanice
+location	Herink
+location	Radonice
+location	Říčany
+location	Brandýs N. Labem
+location	Zeleneč
+location	Benešov
+location	Čerčany
+location	Tehovec
+location	Louňovice
+location	Tuklaty
+location	Zvánovice
+location	Kochánky
+location	Ondřejov
+location	Benátky nad Jizerou
+location	Hrušov
+location	Kostelec N. Černými Lesy
+location	Mladá Boleslav
+location	Chrášťany
+location	Hořátev
+location	Nymburk
+location	Poděbrady
+location	Kolin
+location	Kutná Hora
+
+# Liberec Region
+location	Liberec
+location	Jablonec nad Nisou
+
+# Vysocina Region
+location	Bela - Ledec Na Sazavou
+location	Kynice
+
+# Pardubice Region
+location	Pardubice
+
+# Hradec Králové Region
+location	Sběř
+location	Jičín
+
+# South Moravian Region
+location	Znojmo
+location	Brno
+location	Breclav
+location	Hodonín
+location	Ratíškovice
+
+# Olomouc Region
+location	Litovel
+location	Sumperk
+location	Písařov
+
+# Zlin
+location	Uhersky Brod
+location	Fryšták
+
+# Hranice Na Moravě
+location	Prostějov
+
+# Moravian-Silesian Region
+location	Ostrava
+location	Frýdek-Místek
+location	Havířov
+location	Albrechtice
+location	Karviná
+location	Cesky Tesin
+
+### Poland
+# Wielkopolskie
+location	Kalisz
+
+# Łódzkie
+location	Pajeczno County
+location	Belchatow County
+location	Lodz
+location	Skierniewice County
+
+# Malopolskie
+location	Kraków
+
+# Warminsko-Mazurskie
+location	Olsztyn
+
+# Mazowieckie
+location	Plock
+location	Grodzisk Mazowiecki
+location	Warszawa
+location	Brodno-Warszawa
+location	Radom
+
+### Slovakia
+# Zilina
+location	Martincek
+
+# Kosice
+location	Zehra
+
+### Hungary
+# Central Hungary
+location	Budapest
+
+### Serbia
+# Raška District
+location	Novi Pazar
+location	Kraljevo
+
+# Rasina District
+location	Krusevac
+
+# Zlatibor District
+location	Uzice
+
+# Moravica District
+location	Cacak
+
+# Pomoravlje District
+location	Cuprija
+
+# Šumadija District
+location	Kragujevac
+
+# Srem District
+location	Sremska Mitrovica
+location	Ruma
+
+# South Banat District
+location	Pancevo
+location	Vrsac
+
+# Central Banat District
+location	Zrenjanin
+
+# South Bačka District
+location	Backa Palanka
+location	Vrbas
+location	Srbobran
+location	Novi Sad
+location	Titel
+
+# North Banat District
+location	Kikinda
+
+# North Bačka District
+location	Backa Topola
+location	Subotica
+
+### North Macedonia
+# Southwestern Region
+location	Struga
+location	Ohrid
+
+# Pelagonia
+location	Bitola
+location	Prilep
+
+# Vardar
+location	Veles
+
+# Northeastern Region
+location	Kumanovo
+
+# Eastern Region
+location	Shtip
+
+# Southeastern Region
+location	Strumica
+
+### Greece
+# Central Greece
+location	Livadeia
+
+### Lithuania
+# Vilnius
+location	Ukmerge
+
+# Utena
+location	Ignalina
+
+### Romania
+# Vrancea
+location	Focsani
+
+# Suceava
+location	Iasi
+
+### Finland
+# Finland
+location	Rovaniemi
+
+### Belarus
+# Minsk Region
+location	Uzda
+location	Kolodishchi
+location	Smalyavichy
+
+# Vitebsk Region
+location	Dubrowna
+
+# Mogilev Region
+location	Babruysk
+
+# Gomel Region
+location	Kalinkavichy
+
+### Moldova
+# Rezina
+location	Rabnita
+
+### Ukraine
+# Volyn
+location	Lutsk
+
+# Crimea
+location	Yevpatoriya
+location	Novofedorovka
+location	Simpheropol
+location	Crimea
+location	Alushta
+
+### Russia
+# Kaliningrad Region
+location	Kaliningrad
+
+# Pskov Oblast
+location	Velikiye Luki
+location	Borovichi (Pskov)
+
+# Saint-Petersburg
+location	Saint Petersburg
+
+# Leningrad Oblast
+location	Sosnovyi Bor
+location	Kipen
+location	Gatchina
+location	Yanino-1
+location	Vsevolozhsk
+location	Tosno
+location	Kirovsk
+location	Kirishi
+location	Volkhov
+
+# Novgorod
+location	Veliky Novgorod
+location	Chudovo
+location	Borovichi (Novgorod)
+
+# Bryansk Oblast
+location	Bryansk
+
+# Karelia
+location	Porosoozero
+location	Shuya
+location	Kondopoga
+location	Petrozavodsk
+location	Medvezhyegorsk
+location	Pindushi
+location	Derevyanka
+location	Sosnovka
+location	Povenets
+location	Kazhma
+location	Podporozhye
+
+# Murmansk
+location	Murmansk
+location	Severomorsk
+
+# Kaluga
+location	Tovarkovo
+
+# Oryol
+location	Oryol
+
+# Tula Region
+location	Novomoskovsk
+
+# Moscow Oblast
+location	Uvarovka
+location	Lapino
+location	Kubinka
+location	Naro-Fominsk
+location	Zvenigorod
+location	Kalininets
+location	Moscow
+location	Dmitrov
+location	Korolyov
+location	Pushkino
+location	Lyubertsy
+location	Sergiyev Posad
+location	Bronnitsy
+location	Elektrostal
+
+# Yaroslavl
+location	Yaroslavl
+
+# Krasnodar
+location	Anapa
+location	Novorossiysk
+location	Krasnodar
+location	Sochi
+location	Armavir
+
+# Rostov
+location	Zernograd
+location	Rostov-On-Don
+location	Kamensk-Shakhtinsky
+
+# Ryazan
+location	Ryazan
+
+# Voronezh
+location	Voronezh
+
+# Adygea
+location	Maykop
+
+# Vladimir Region
+location	Vladimir
+
+# Tambov Region
+location	Tambov
+location	Morshansk
+
+# Ivanovo
+location	Ivanovo
+
+# Karachay-Cherkess
+location	Zelenchukskaya
+location	Karachayevsk
+location	Cherkessk
+
+# Stavropol
+location	Yessentuki
+location	Stavropol
+
+# Nizhny Novgorod
+location	Nizhny Novgorod
+
+# Republic of North Ossetia-Alania
+location	Vladikavkaz
+
+# Volgograd Region
+location	Volgograd
+
+# Republic of Mordovia
+location	Saransk
+
+# Ingushetia
+location	Nazran
+
+# Kalmykia
+location	Elista
+
+# Chechen Republic
+location	Grozny
+
+# Saratov
+location	Balakovo
+
+# Dagestan
+location	Derbent
+location	Makhachkala
+
+# Mari El
+location	Kozmodemyansk
+
+# Astrakhan Region
+location	Akhtubinsk
+location	Enotaevka
+location	Kharabali
+location	Astrakhan
+location	Volodarskiy
+
+# Komi
+location	Ukhta
+location	Sosnogorsk
+
+# Orenburg
+location	Orenburg
+location	Orsk
+
+# Perm Krai
+location	Perm
+
+# Bashkortostan
+location	Ufa
+
+# Chelyabinsk
+location	Ozyorsk
+
+# Sverdlovsk
+location	Kamensk-Uralsky
+location	Polevskoy
+location	Sysert
+location	Kashino
+location	Dvurechensk
+location	Bobrovsky
+location	Revda
+location	Zarechny
+location	Yekaterinburg
+location	Pervouralsk
+location	Verkhnyaya Pyshma
+location	Sredneuralsk
+location	Baltym
+location	Asbest
+location	Krasnyi Aduy
+location	Shalya
+location	Verkhny Tagil
+location	Kirovgrad
+location	Nizhny Tagil
+location	Svobodny (Sverdlovsk)
+location	Krasnouralsk
+location	Kachkanar
+location	Serov
+location	Ivdel
+
+# Khanty-Mansi
+location	Khanty-Mansiysk
+location	Surgut
+location	Nizhnevartovsk
+
+# Tyumen Region
+location	Tyumen
+
+# Omsk
+location	Ust-Ishim
+location	Moskalenki
+location	Maryanovka
+location	Lyubinsky
+location	Azovo
+location	Omsk
+location	Russkaya Polyana
+location	Tara
+location	Kalachinsk
+location	Novovarshavka
+location	Cherlak
+location	Nizhnyaya Omka
+location	Muromtsevo
+location	Sedelnikovo
+
+# Novosibirsk
+location	Berdsk
+location	Novosibirsk
+
+# Altai Krai
+location	Barnaul
+
+# Kemerovo
+location	Novokuznetsk
+location	Kemerovo
+
+# Khakassia
+location	Abakan
+
+# Krasnoyarsk
+location	Krasnoyarsk
+
+# Irkutsk Region
+location	Irkutsk
+
+# Buryatia
+location	Ulan-Ude
+
+# Primorsky
+location	Vladivostok
+location	Ussuriysk
+
+# Amur Region
+location	Arkhara
+location	Konstantinovka
+location	Poyarkovo
+location	Progress
+location	Gilchin
+location	Tambovka
+location	Blagoveshchensk
+location	Yekaterinoslavka
+location	Romny
+location	Belogorsk
+location	Svobodny (Amur)
+location	Zeya
+
+# Kamchatka Krai
+location	Petropavlovsk-Kamchatsky
+
+################
+
+# South America
+
+### Argentina
+# Tierra del Fuego
+location	Ushuaia
+location	Rio Grande
+
+# Rio Negro
+location	San Carlos de Bariloche
+location	Cipolletti
+location	General Roca
+
+# Neuquen
+location	Villa la Angostura
+location	San Martin de los Andes
+location	Loncopue
+location	Las Lajas
+location	Zapala
+location	Cutral Co
+location	Plottier
+location	Neuquen
+
+# Buenos Aires
+location	Bahia Blanca
+location	Tres de Febrero
+location	Almirante Brown
+location	Olavarría
+location	Torres AR
+location	Luján
+location	Campana
+location	Gral Rodriguez
+location	Moreno
+location	José C Paz
+location	Cañuelas
+location	Necochea
+location	Esteban Echeverria
+location	Presidente Perón
+location	Hurlingham
+location	Morón
+location	Máximo Paz
+location	Gregorio de Laferrere
+location	Tigre
+location	San Fernando AR
+location	Ezeiza
+location	General San Martin
+location	San Martin
+location	San Isidro AR
+location	Vicente Lopez
+location	Lomas de Zamora
+location	Lanús
+location	La Matanza
+location	Avellaneda
+location	Florencio Varela
+location	Quilmes
+location	Brandsen
+location	Berazategui
+location	La Plata
+location	Berisso
+location	Malvinas Argentinas
+
+# Cordoba AR
+location	Villa Dolores
+location	Saldan
+location	Cordoba AR
+location	Villa Maria
+location	Belle Ville
+location	Brinkmann
+
+# Santa Fe
+location	Totoras
+location	Santa Fe AR
+location	Esperanza
+location	Coronda
+location	Cayastá
+location	Ceres
+location	Reconquista
+location	Villa Ocampo
+
+# Chaco
+location	Puerto Vilelas
+location	Resistencia
+location	Fontana
+location	Isla del Cerrito
+location	Sanz Peña
+location	Sauzalito
+
+### Uruguay
+# Rocha
+location	Chuy
+
+# Cerro Largo
+location	Rio Branco
+
+# Artigas
+location	Bella Union
+
+### Chile
+# Magallanes
+location	Puerto Natales
+location	Natales
+location	Punta Arenas
+location	Porvenir
+location	Puerto Williams
+
+# Aysén
+location	Coyhaique
+
+# Los Lagos
+location	Puerto Montt
+
+# Araucanía
+location	Temuco
+location	Angol
+
+# Biobío
+location	Concepcion CL
+location	Los Angeles
+
+# Ñuble
+location	Chillan
+
+# Maule
+location	Talca
+location	Curico
+
+# O'Higgins
+location	Lolol
+location	Pichidegua
+location	Rancagua
+location	San Francisco de Mostazal
+
+# Region Metropolitana de Santiago
+location	Buin
+location	Talagante
+location	Padre Hurtado
+location	Maipu
+location	Santiago
+location	Curacavi
+location	Quilicura
+location	Colina
+
+# Valparaiso
+location	Vina del Mar
+location	Los Andes
+
+# Atacama
+location	Domeyko
+location	Vallenar
+location	Freirina
+location	Huasco
+location	Tierra Amarilla
+location	Paipote
+location	Copiapo
+location	Caldera
+location	Chanaral
+location	El Salvador
+
+# Antofagasta
+location	Antofagasta
+
+# Arica and Parinacota
+location	Arica
+
+### Brazil
+# Amazonas BR
+location	Carauari
+location	Labrea
+location	Tapaua
+location	Caapiranga
+location	Manacapuru
+location	Manaquiri
+location	Iranduba
+location	Manaus
+
+# Rondonia
+location	Jaru
+location	Porto Velho
+
+# Rio Grande do Sul
+location	Itaqui
+location	Quaraí
+location	Sao Borja
+location	Santana do Livramento
+location	Santa Rosa
+location	Girua
+location	Santo Angelo
+location	Tres Passos
+location	Ijui
+location	Lavras do Sul
+location	Santa Maria
+location	Cruz Alta
+location	Cacapava do Sul
+location	Frederico Westphalen
+location	Saldanha Marinho
+location	Cachoeira do Sul
+location	Não-Me-Toque
+location	Carazinho
+location	Passo Fundo
+location	Pelotas
+location	Erechim
+location	Marau
+location	Venancio Aires
+location	Nova Brescia
+location	Tapejara
+location	Butia
+location	Lajeado
+location	Arroio do Meio
+location	Bom Retiro do Sul
+location	Serafina Correa
+location	São Domingos do Sul
+location	Nova Araça
+location	Garibaldi
+location	Carlos Barbosa
+location	Barao
+location	Tupandi
+location	Sao Sebastiao do Cai
+location	Bom Principio
+location	Farroupilha
+location	Alto Feliz
+location	Porto Alegre
+location	Linha Nova
+location	Flores Da Cunha
+location	Canoas BR
+location	Caxias do Sul
+location	Novo Hamburgo
+location	São Leopoldo
+location	Morro Reuter
+location	Sapiranga
+location	Taquara
+location	Osorio
+location	Torres BR
+
+# Paraná
+location	Medianeira
+location	Marechal Candido Rondon
+location	Cascavel
+location	Umuarama
+location	Dois Vizinhos
+location	Vere
+location	Cianorte
+location	Maringa
+location	Londrina
+location	Uniao Da Vitoria
+location	Ponta Grossa
+location	Curitiba
+
+# Santa Catarina
+location	Braco do Norte
+location	Florianopolis
+location	Balneario Camburiu
+location	Joinville
+
+# Distrito Federal
+location	Brasilia
+
+# São Paulo
+location	Euclides Da Cunha Paulista
+location	Presidente Epitacio
+location	Presidente Venceslau
+location	Santo Anastacio
+location	Emilianopolis
+location	Presidente Prudente
+location	Taciba
+location	Adamantina
+location	Taruma
+location	Araçatuba
+location	Assis
+location	Candido Mota
+location	Herculandia
+location	Birigui
+location	Fernandopolis
+location	Marilia
+location	Cajati
+location	Ribeirao Preto
+location	Piracicaba
+location	Juquia
+location	Rio Claro
+location	Sorocaba
+location	Limeira
+location	Araras
+location	Americana
+location	Nova Odessa
+location	Sumare
+location	Indaiatuba
+location	Hortolandia
+location	Itariri
+location	Campinas
+location	Mococa
+location	Peruibe
+location	Rio Verde
+location	Cotia
+location	Jandira
+location	Rio Pardo
+location	Jundiai
+location	Cajamar
+location	Barueri
+location	Itapecerica Da Serra
+location	Embu Das Artes
+location	Itatiba
+location	Osasco
+location	Taboao Da Serra
+location	Amparo
+location	Caieiras
+location	Jarinu
+location	São Paulo
+location	Mongagua
+location	Diadema
+location	Mairipora
+location	Sao Caetano do Sul
+location	Sao Bernardo do Campo
+location	Braganca Paulista
+location	Santo Andre
+location	Guarulhos
+location	Maua
+location	Ribeirao Pires
+location	Rio Grande Da Serra
+location	Sao Vicente
+location	Poa
+location	Santos
+location	Guarujá
+location	Santa Isabel
+location	Mogi Das Cruzes
+location	Guararema
+location	Jacareí
+location	Taubate
+location	Caraguatatuba
+location	Sao Sebastiao
+location	Cunha
+
+# Rio de Janeiro
+location	Resende
+location	Itaguaí
+location	Seropédica
+location	Queimados
+location	Nova Iguacu
+location	Mesquita
+location	Nilópolis
+location	Belford Roxo
+location	São João de Meriti
+location	Duque de Caxias
+location	Rio de Janeiro
+location	Tres Rios BR
+location	Petropolis
+location	Niteroi
+location	Sao Goncalo
+location	Guapimirim
+location	Teresopolis
+location	Itaborai
+location	Maricá
+location	Nova Friburgo
+location	Cabo Frio
+location	Itaperuna
+location	Macaé
+
+# Piaui
+location	Parnaiba
+
+# Bahia
+location	Teixeira de Freitas
+location	Feira de Santana
+
+# Espirito Santo
+location	Vila Velha
+
+# Sergipe
+location	Tomar do Geru
+location	Estancia
+location	Itaporanga Dajuda
+location	Jaboatiana
+location	Aracaju
+location	Nossa Senhora do Socorro
+location	Laranjeiras
+location	Riachuelo
+location	Nossa Senhora Da Gloria
+
+# Pernambuco
+location	Tabira
+location	Caruaru
+location	Jaqueira
+location	Camocim de Sao Felix
+location	Catende
+location	Palmares
+location	Passira
+location	Cha Grande
+location	Gameleira
+location	Primavera
+location	Lagoa do Carro
+location	Vitoria de Santo Antao
+location	Carpina
+location	Alianca
+location	Itambe
+location	Tamandaré
+location	Condado
+location	Ipojuca
+location	Sao Lourenco Da Mata
+location	Cabo de Santo Agostinho
+location	Goiana
+location	Camaragibe
+location	Jaboatao Dos Guararapes
+location	Recife
+location	Paulista
+location	Olinda
+
+# Paraiba
+location	Marizopolis
+location	Coxixola
+location	Cacimba de Dentro
+location	Pilar
+location	Pedras de Fogo
+location	Santa Rita
+location	Joao Pessoa
+location	Lucena
+location	Cabedelo
+
+# Alagoas
+location	Maceio
+
+### Peru
+# Moquegua
+location	Moquegua
+
+# Arequipa
+location	Arequipa
+
+# Callao
+location	Callao
+
+# Lima
+location	Cañete
+location	Lima
+location	Huarochiri
+
+# Junin
+location	Huancayo
+
+# Ancash
+location	Santa
+location	Huarmey
+location	Huaraz
+
+# Ucayali
+location	Coronel Portillo
+
+# La Libertad
+location	La Libertad
+
+# Lambayeque
+location	Chiclayo
+
+# Amazonas PE
+location	Chachapoyas
+location	Luya
+location	Bongara
+
+### Ecuador
+# Galapagos
+location	Puerto Baquerizo Moreno
+
+# Tungurahua
+location	Ambato
+
+# Cotopaxi
+location	Latacunga
+
+# Manabi
+location	Pajan
+location	Puerto Lopez
+location	Jipijapa
+location	Portoviejo
+location	Manta
+location	Calceta
+location	Sucre
+
+# Guayas
+location	General Villamil Playas
+location	Guayaquil
+location	San Jacinto de Yaguachi
+
+# El Oro
+location	Machala
+
+# Loja
+location	Macara
+location	Catamayo
+
+# Los Rios
+location	Babahoyo
+location	Quevedo
+location	Ventanas
+location	Valencia EC
+
+# Esmeraldas
+location	Esmeraldas
+
+# Azuay
+location	Cuenca EC
+
+# Santo Domingo
+location	Santo Domingo
+
+# Bolivar EC
+location	Guaranda
+
+# Cañar
+location	Azogues
+
+# Zamora-Chinchipe
+location	Zamora
+location	Yantzaza
+location	El-Pangui
+
+# Chimborazo
+location	Riobamba
+
+# Pichincha
+location	Quito
+location	Cayambe
+
+# Imbabura
+location	San Pablo EC
+location	Otavalo
+location	Ibarra
+location	Urcuqui
+
+# Carchi
+location	Awa Reserve
+
+# Morona Santiago
+location	Morona
+
+# Napo
+location	Tena
+
+# Pastaza
+location	Puyo
+
+# Orellana
+location	Coca
+location	Orellana
+
+### Colombia
+# Departamento de Amazonas
+location	Leticia
+
+# Narino
+location	Tumaco
+location	Ipiales
+location	Pasto
+
+# Cauca
+location	Popayan
+location	Santander de Quilichao
+
+# Huila
+location	Neiva
+
+# Meta
+location	Villavicencio
+
+# Valle del Cauca
+location	Jamundi
+location	Cali
+location	Yumbo
+location	Palmira
+location	El Cerrito
+location	Buga
+location	Tulua
+location	Andalucia
+location	Trujillo
+
+# Tolima
+location	Ibague
+location	Tolemaida
+
+# Quindio
+location	Armenia
+
+# Cartago CO
+location	Cartago CO
+
+# Risaralda
+location	Pereira
+location	Dosquebradas
+
+# Cundinamarca
+location	Madrid CO
+location	Soacha
+location	Funza
+location	Pacho
+location	Chia
+location	Cajica
+location	Zipaquira
+location	Suesca
+location	Choconta
+
+# Caldas
+location	Anserma
+location	Manizales
+
+# Boyaca
+location	Tunja
+location	Santa Sofia
+location	Togui
+location	Santana
+
+# Choco
+location	Quibdo
+
+# Antioquia
+location	Sabaneta
+location	Envigado
+location	Itagui
+location	Medellin
+location	Bello
+
+# Santander
+location	Barrancabermeja
+location	Bucaramanga
+
+# Norte de Santander
+location	Cucuta
+
+# Cordoba CO
+location	Tierralta
+location	Monteria
+location	Cienaga de Oro
+
+# Bolivar
+location	Cartagena
+
+# Cesar
+location	Valledupar
+
+# Magdalena
+location	Cienaga
+location	Santa Marta
+
+# Atlantico
+location	Soledad
+location	Barranquilla
+
+################
+
+# North America
+
+### Panama
+# Panama Oeste
+location	Lídice
+location	La Chorrera
+location	Herrera (Panama Oeste)
+location	Guadalupe
+location	Juan Demóstenes Arosemena
+location	Vista Alegre
+location	Arraiján
+location	Burunga
+location	Veracruz
+
+# Panama Center
+location	Calidonia
+location	Pueblo Nuevo
+location	Las Cumbres
+location	Chilibre
+location	Ancón
+location	Clayton PA
+location	Juan Díaz
+location	Alcalde Díaz
+location	Arnulfo Arias
+location	El Chorrillo
+location	Río Abajo
+location	Santa Ana PA
+location	Ernesto Córdoba
+location	Betania
+location	Bella Vista
+location	Omar Torrijos
+location	Amelia Denis de Icaza
+location	Victoriano Lorenzo
+location	San Francisco PA
+location	Belisario Porras
+location	Belisario Frías
+location	Parque Lefevre
+location	Jose Domingo Espinar
+location	El Crisol
+location	Pedregal
+location	Rufina Alfaro
+location	Don Bosco
+location	Parque Real
+location	Las Mañanitas
+location	Tocumen
+location	Pacora
+location	Chepo
+
+# Guna Yala
+location	Aligandí
+
+### Costa Rica
+# Guanacaste
+location	Nicoya
+location	Liberia
+location	La Cruz
+
+# Puntarenas
+location	Puntarenas
+location	Garabito
+location	Palmar
+location	Piedras Blancas
+location	Buenos Aires
+location	Corredores
+location	Corredor
+location	Coto Brus
+location	Laurel
+location	Canoas CR
+location	La Cuesta
+
+# Alajuela
+location	Orotina
+location	San Rafael de Alajuela
+location	Alajuela
+location	Grecia
+location	San Roque CO
+location	Quesada
+location	San Carlos
+
+# Heredia
+location	San Francisco CR
+location	Heredia
+location	Barva
+location	San Pablo CR
+location	San Rafael Heredia
+location	Mercedes
+location	Paracito
+
+# San Jose
+location	Barbacoas
+location	Picagres
+location	Santiago de Puriscal
+location	Pozos
+location	Santa Ana CR
+location	Escazu
+location	San Antonio
+location	Pavas
+location	San Rafael de Escazú
+location	San Felipe
+location	Alajuelita
+location	San Jose
+location	Pitahaya
+location	Aserri
+location	Tibas
+location	San Rafael Arriba
+location	Tarrazu
+location	Llorente
+location	Desamparados
+location	Zapote
+location	San Francisco de Dos Rios
+location	San Pedro
+location	Los Guido
+location	Tirrases
+location	Curridabat
+location	Montes de Oca
+location	Purral
+location	Patalillo
+location	San Jerónimo
+location	Moravia
+location	Goicoechea
+location	Perez Zeledon
+
+# Cartago CR
+location	San Diego CR
+location	La Union
+location	Concepcion CR
+location	San Ramon
+location	Tres Rios CR
+location	San Isidro CR
+location	El Tejar
+location	Cartago CR
+location	San Rafael Cartago
+location	Llanos de Santa Lucia
+location	Paraiso
+location	Carmen
+location	La Suiza
+location	Dulce Nombre
+
+# Limon
+location	Siquirres
+location	Limon
+
+### Mexico
+# Baja California
+location	Rosarito
+location	Tijuana
+location	Ensenada
+location	Mexicali
+
+# Sonora
+location	San Luis Rio Colorado
+
+# Durango
+location	Gomez Palacios
+
+# Tamaulipas
+location	Matamoros
+
+### USA
+# Hawaii
+location	Kauai County
+location	Honolulu County
+location	Maui County
+location	Hawaii County
+
+# Alaska
+location	Southwest Alaska
+location	Interior Alaska
+location	Anchorage
+location	Matanuska-Susitna Valley
+location	Fairbanks
+location	Southeast Alaska
+
+# Oregon
+location	Coos County
+location	Yamhill County
+location	Douglas County OR
+location	Columbia County OR
+location	Washington County OR
+location	Lane County OR
+location	Jackson County OR
+location	Marion County OR
+location	Linn County
+location	Multnomah County
+location	Clackamas County
+location	Klamath County
+location	Hood River County
+location	Wasco County
+location	Sherman County
+location	Umatilla County
+
+# Washington
+location	Grays Harbor County
+location	Pacific County
+location	Clallam County
+location	Jefferson County WA
+location	Mason County
+location	San Juan County
+location	Thurston County
+location	Cowlitz County
+location	Clark County WA
+location	Lewis County WA
+location	Pierce County WA
+location	Snohomish County
+location	King County
+location	Skagit County
+location	Whatcom County
+location	Kittitas County
+location	Klickitat County
+location	Yakima County
+location	Chelan County
+location	Douglas County WA
+location	Benton County
+location	Grant County WA
+location	Franklin County WA
+location	Walla Walla County
+location	Adams County WA
+location	Lincoln County WA
+location	Spokane County
+location	Asotin County
+
+# California
+location	Humboldt County
+location	Grand Princess Cruise Ship
+location	Mendocino County
+location	Sonoma County
+location	Lake County CA
+location	Marin County
+location	San Francisco
+location	San Francisco County
+location	San Mateo County
+location	Napa County
+location	Colusa County
+location	Solano County
+location	Yolo County
+location	Contra Costa County
+location	Alameda County
+location	Sutter County
+location	Santa Clara County
+location	Butte County
+location	Sacramento County
+location	San Joaquin County
+location	Monterey County CA
+location	Stanislaus County
+location	Merced County
+location	San Luis Obispo County
+location	Tuolumne County
+location	Santa Barbara County
+location	Fresno County
+location	Kings County CA
+location	Madera County
+location	Ventura County
+location	Mono County
+location	Tulare County
+location	Kern County
+location	Los Angeles County
+location	Orange County CA
+location	Inyo County
+location	San Diego
+location	Riverside County
+location	San Diego County
+location	San Bernardino County
+location	Imperial County
+location	Riverside
+
+# Nevada
+location	Clark County NV
+
+# Idaho
+location	Madison County ID
+
+# Arizona
+location	Yuma
+location	Mohave County
+location	Maricopa County
+location	Pima County
+location	Navajo County
+
+# Montana
+location	Ravalli County
+
+# Colorado
+location	Colorado Springs
+location	Denver County
+
+# South Dakota
+location	Minnehaha County
+
+# Nebraska
+location	Lancaster County
+location	Omaha
+
+# Texas
+location	El Paso County
+location	Brewster County
+location	Bailey County
+location	Oldham County
+location	Deaf Smith County
+location	Ector County
+location	Lubbock County
+location	Crosby County
+location	Val Verde County
+location	Ochiltree County
+location	Gray County
+location	Tom Green County
+location	Wheeler County
+location	Taylor County TX
+location	McCulloch County
+location	Webb County
+location	Bandera County
+location	Brown County TX
+location	Starr County
+location	Wichita County
+location	Llano County
+location	Atascosa County
+location	Comanche County
+location	Bexar County
+location	Comal County
+location	Hidalgo County
+location	Wilson County
+location	Jim Wells County
+location	Live Oak County
+location	Hays County
+location	Hood County
+location	Guadalupe County
+location	Parker County
+location	Travis County
+location	Montague County
+location	Bee County
+location	Wise County
+location	Nueces County
+location	Williamson County
+location	San Patricio County
+location	Gonzales County
+location	Cameron County
+location	Mclennan County
+location	Denton County
+location	Victoria County
+location	Lavaca County
+location	Dallas County
+location	Calhoun County
+location	Burleson County
+location	Collin County
+location	Limestone County
+location	Washington County TX
+location	Brazos County
+location	Kaufman County
+location	Wharton County
+location	Hunt County
+location	Waller County
+location	Grimes County
+location	Van Zandt County
+location	Fort Bend County
+location	Lamar County
+location	Montgomery County TX
+location	Houston
+location	Harris County
+location	Greater Houston Area
+location	Smith County
+location	Red River County
+location	Galveston County
+location	Titus County
+location	Upshur County
+location	Gregg County
+location	Polk County TX
+location	Rusk County
+location	Morris County TX
+location	Angelina County
+location	Nacogdoches County
+location	Bowie County
+location	Cass County
+location	Panola County
+location	Jefferson County TX
+location	Jasper County
+
+# Minnesota
+location	Fillmore County
+location	Houston County
+location	Winona County
+location	Wabasha County
+location	Dakota County
+location	Stearns County
+
+# Iowa
+location	Howard County
+location	Fayette County
+location	Buchanan County
+location	Winneshiek County
+location	Johnson County
+location	Clayton County
+location	Allamakee County
+location	Dubuque County
+location	Jackson County IA
+
+# Louisiana
+location	Caddo Parish
+location	DeSoto Parish
+location	Bossier Parish
+location	Sabine Parish
+location	Webster Parish
+location	Red River Parish
+location	Natchitoches Parish
+location	Bienville Parish
+location	Claiborne Parish
+location	Lincoln Parish
+location	Grant Parish
+location	Rapides Parish
+location	Union Parish
+location	Ouachita Parish
+location	Avoyelles Parish
+location	Richland Parish
+location	Morehouse Parish
+location	Iberville Parish
+location	Tensas Parish
+location	East Carroll Parish
+location	Madison Parish
+location	East Baton Rouge Parish
+location	Assumption Parish
+location	East Feliciana Parish
+location	Livingston Parish
+location	Jefferson Parish
+location	New Orleans
+location	St Tammany Parish
+location	St Bernard Parish
+
+# Missouri
+location	Gasconade County
+location	Saint Louis County
+location	St. Louis MO
+
+# Wisconsin
+location	Crawford County
+location	Polk County WI
+location	Pierce County WI
+location	Burnett County
+location	Pepin County
+location	Barron County
+location	Washburn County
+location	Buffalo County
+location	Trempealeau County
+location	Eau Claire County
+location	Chippewa County WI
+location	Sawyer County
+location	La Crosse County
+location	Vernon County
+location	Jackson County WI
+location	Grant County WI
+location	Ashland County
+location	Monroe County WI
+location	Clark County WI
+location	Taylor County WI
+location	Richland County WI
+location	Lafayette County
+location	Iowa County WI
+location	Juneau County
+location	Wood County
+location	Sauk County
+location	Marathon County
+location	Adams County WI
+location	Lincoln County WI
+location	Green County
+location	Dane County
+location	Verona WI
+location	Portage County
+location	Vilas County
+location	Marquette County
+location	Oregon WI
+location	Brooklyn WI
+location	Columbia County WI
+location	Waushara County
+location	Rock County
+location	Columbus WI
+location	Waupaca County
+location	Jefferson County WI
+location	Dodge County
+location	Shawano County
+location	Winnebago County WI
+location	Walworth County
+location	Fond Du Lac County
+location	Outagamie County
+location	Campbellsport
+location	Oconto County
+location	Waukesha County
+location	Washington County WI
+location	Kenosha County
+location	Marinette County
+location	Brown County WI
+location	Thiensville
+location	Milwaukee County
+location	Sheboygan County
+location	Ozaukee County
+location	Whitefish Bay
+location	Port Washington
+location	South Milwaukee
+location	Manitowoc County
+location	Racine County
+location	Door County
+
+# Illinois
+location	Jackson County IL
+location	Rock Island County
+location	Cook County
+location	Chicago
+location	Dekalb County
+location	Kane County
+location	Ogle County IL
+location	Ogle County
+location	Boone County
+location	Winnebago County IL
+location	Lake County IL
+location	Stephenson County
+location	Jo Daviess County
+
+# Indiana
+location	Marion County IN
+
+# Kentucky
+location	Mccracken County
+
+# Georgia
+location	Cobb
+
+# Ohio
+location	Columbus OH
+location	Franklin County OH
+location	Cuyahoga County
+
+# Florida
+location	Walton County
+location	Alachua County
+location	Miami-Dade County
+location	Palm Beach County
+
+# South Carolina
+location	Fairfield County SC
+location	Columbia SC
+location	Richland County SC
+location	Berkeley County
+location	Williamsburg County
+location	Georgetown County
+location	Horry County
+
+# West Virginia
+location	Kanawha
+
+# Pennsylvania
+location	Pittsburgh
+location	Allegheny County
+location	Chester County
+location	Montgomery County PA
+
+# Washington DC
+location	District of Columbia County
+
+# Delaware
+location	Sussex County
+location	Kent County
+location	New Castle County
+
+# New Jersey
+location	Salem County
+location	Gloucester County
+location	Camden County
+location	Burlington County
+location	Ocean County
+location	Middlesex County NJ
+location	Union County
+location	Hudson County
+location	Essex County NJ
+location	Morris County NJ
+location	Bergen County
+
+# New York
+location	Chautauqua County
+location	Niagara County
+location	Erie County
+location	Cattaraugus County
+location	Wyoming County
+location	Orleans County
+location	Genesee County
+location	Allegany County NY
+location	Livingston County
+location	Monroe County NY
+location	Steuben County
+location	Ontario County
+location	Wayne County
+location	Seneca County
+location	Chemung County
+location	Cayuga County
+location	Tompkins County
+location	Tioga County
+location	Onondaga County
+location	Oswego County
+location	Cortland County
+location	Jefferson County NY
+location	Broome County
+location	Madison County NY
+location	Chenango County
+location	Lewis County NY
+location	Oneida County
+location	St. Lawrence County
+location	Otsego County
+location	Delaware County
+location	Herkimer County
+location	Sullivan County
+location	Hamilton County
+location	Fulton County
+location	Schoharie County
+location	Montgomery County NY
+location	Franklin County NY
+location	Ulster County
+location	Orange County NY
+location	Passaic County
+location	Richmond County
+location	Staten Island
+location	Greene County
+location	Schenectady County
+location	New York City
+location	Rockland County
+location	Albany County
+location	Manhattan
+location	New York County
+location	Kings County NY
+location	Brooklyn
+location	Saratoga County
+location	Bronx
+location	Warren County
+location	Queens
+location	Westchester County
+location	New Rochelle
+location	Essex County NY
+location	Putnam County
+location	Dutchess County
+location	Clinton County
+location	New Hyde Park
+location	Columbia County NY
+location	Nassau County
+location	Rensselaer County
+location	Washington County NY
+location	Suffolk County
+
+# Connecticut
+location	Hartford County
+location	Fairfield County CT
+location	Newtown
+location	Trumbull
+location	Seymour
+location	Woodbridge
+location	Bethany
+location	West Haven
+location	New Haven County
+location	Hamden
+location	East Haven
+location	North Haven
+location	Wallingford
+location	Branford
+location	Meriden
+location	Northford
+location	Madison CT
+location	Tolland County
+
+# Massachusetts
+location	Middlesex County MA
+location	Norfolk County
+location	Boston
+
+# Puerto Rico
+location	Ponce
+
+### Canada
+# British Columbia
+location	Abbotsford
+
+# Ontario
+location	Brampton
+location	Toronto
+location	Ottawa
+
+# Quebec
+location	Montérégie
+location	Lanaudière
+
+################
+
+################
+
+
+
+# Asia
+
+### Israel
+division	South District
+division	Israel
+division	Jerusalem District
+division	Judea and Samaria
+division	Central District
+division	Tel Aviv District
+division	Haifa District
+division	North District
+
+### Palestine
+division	Hebron
+division	Bethlehem
+division	Jericho
+division	Ramallah
+division	West Bank
+division	Jerusalem
+division	Nablus
+division	Jenin
+
+### Lebanon
+division	Beirut
+division	Lebanon
+
+### Jordan
+division	Aqaba
+division	Irbid
+division	Amman
+division	Zarqa
+division	Jordan
+division	Mafraq
+
+### Georgia
+division	Georgia (Europe)
+division	Tbilisi
+
+### Iraq
+division	Al-Muthanna Province
+division	Iraq
+
+### Armenia
+division	Armenia
+
+### Saudi Arabia
+division	Jeddah
+division	Madinah
+division	Makkah
+division	Saudi Arabia
+division	Riyadh
+division	Eastern Province
+
+### Kuwait
+division	Kuwait
+
+### Yemen
+division	Yemen
+
+### Bahrain
+division	Bahrain
+division	Capital Governorate
+
+### Qatar
+division	Doha
+division	Qatar
+
+### Iran
+division	Qom
+division	Karaj
+division	Tehran
+division	Iran
+division	Semnan
+division	Sistan and Baluchestan
+
+### United Arab Emirates
+division	United Arab Emirates
+division	Abu Dhabi
+division	Dubai
+division	Sharja
+
+### Oman
+division	Buraimi
+division	Dhahirah
+division	North Batinah
+division	South Batinah
+division	Dakhiliyah
+division	Muscat
+division	North Sharqiyah
+
+### Uzbekistan
+division	Uzbekistan
+
+### Afghanistan
+division	Afghanistan
+division	Kabul
+
+### Kazakhstan
+division	Kazakhstan
+division	Nur-Sultan
+
+### Pakistan
+division	Karachi
+division	Sindh
+division	Pakistan
+division	Rawalpindi
+division	Khyber Pakhtunkhwa
+division	Islamabad
+division	Gilgit Baltistan
+
+### Tajikistan
+division	Tajikistan
+
+### Maldives
+division	Maldives
+
+### Kyrgyzstan
+division	Kyrgyzstan
+
+### India
+division	Tamil Nadu
+division	Karnataka
+division	Andhra Pradesh
+division	Telangana
+division	Maharashtra
+division	Odisha
+division	India
+division	Gujarat
+division	Madhya Pradesh
+division	West Bengal
+division	Bihar
+division	Assam
+division	Rajasthan
+division	Uttar Pradesh
+division	Delhi
+division	Haryana
+division	Uttarakhand
+division	Punjab
+division	Himachal Pradesh
+division	Jammu and Kashmir
+division	Ladakh
+
+### Sri Lanka
+division	Kalutara
+division	Colombo
+division	Gampaha
+division	Sri Lanka
+
+### Nepal
+division	Rolpa
+division	Kapilvastu
+division	Baglung
+division	Kavre
+division	Nepal
+division	Rautahat
+division	Kathmandu
+division	Bhaktapur
+division	Sarlahi
+division	Dolakha
+
+### Asia
+division	Asia
+
+### Bangladesh
+division	Chattogram
+division	Barishal
+division	Khulna
+division	Dhaka
+division	Rajshahi
+division	Bangladesh
+division	Mymensingh
+division	Sylhet
+division	Rangpur
+
+### Myanmar
+division	Yangon
+division	Myanmar
+
+### Thailand
+division	Trang
+division	Phuket
+division	Rayong
+division	Chonburi
+division	Samut Songkhram
+division	Samut Sakhon
+division	Samut Prakarn
+division	Bangkok
+division	Nonthaburi
+division	Pathum Thani
+division	Nakhonnayok
+division	Thailand
+division	Singburi
+division	Phitsanulok
+division	Chiang Rai
+
+### Malaysia
+division	Selangor
+division	Kuala Lumpur
+division	Negeri Sembilan
+division	Pahang
+division	Malaysia
+division	Sarawak
+division	Sabah
+
+### Mongolia
+division	Mongolia
+
+### Singapore
+division	Singapore
+
+### China
+division	Yunnan
+division	Gansu
+division	Sichuan
+division	China
+division	Chongqing
+division	Guangxi
+division	Hunan
+division	Hubei
+division	Henan
+division	Guangdong
+division	Jiangxi
+division	Hebei
+division	Beijing
+division	Anhui
+division	Fujian
+division	Shandong
+division	Jiangsu
+division	Zhejiang
+division	Shanghai
+division	Liaoning
+division	Heilongjiang
+
+### Cambodia
+division	Sihanoukville
+division	Phnom Penh
+
+### Vietnam
+division	Ho Chi Minh City
+division	Vietnam
+division	Thanh Hoa
+division	Quangninh
+division	Red River Delta
+division	Vinhphuc
+division	Lao Cai
+
+### Hong Kong
+division	Hong Kong
+
+### Indonesia
+division	Aceh
+division	North Sumatra
+division	Bengkulu
+division	Riau Islands
+division	Lampung
+division	Banten
+division	Kepulauan Bangka Belitung
+division	Jakarta
+division	West Java
+division	West Kalimantan
+division	Yogyakarta
+division	Central Java
+division	East Java
+division	Center Kalimantan
+division	Indonesia
+division	Bali
+division	South Kalimantan
+division	North Kalimantan
+division	East Kalimantan
+division	West Nusa Tenggara
+division	South Sulawesi
+division	East Nusa Tenggara
+division	North Sulawesi
+division	North Maluku
+division	West Papua
+division	Papua
+
+### Brunei
+division	Brunei
+
+### Taiwan
+division	Tainan
+division	Taiwan
+division	New Taipei City
+division	Keelung
+
+### Philippines
+division	Philippines
+division	National Capital Region
+division	Manila
+
+### Timor-Leste
+division	Timor-Leste
+
+### South Korea
+division	Gwangju
+division	South Korea
+division	Chungcheongnam
+division	Gyeonggi Province
+division	Seoul
+
+### Japan
+division	Nagasaki
+division	Kyusyu
+division	Chushikoku
+division	Kochi
+division	Osaka
+division	Kyoto
+division	Kansai
+division	Nara
+division	Ishikawa
+division	Chubu
+division	Aichi
+division	Hokurikushinsyu
+division	Hokuriku
+division	Kanto
+division	Kanagawa
+division	Saitama
+division	Japan
+division	Tokyo
+division	Chiba
+division	Tohoku
+division	Hokkaido
+
+################
+
+# Oceania
+
+### New Zealand
+division	Southern
+division	Otago
+division	South Canterbury
+division	Canterbury
+division	New Zealand
+division	Nelson Marlborough
+division	Taranaki
+division	Auckland
+division	Wellington
+division	Whanganui
+division	Waikato
+division	Wairarapa
+division	Midcentral
+division	Lakes
+division	Hawkes Bay
+division	Bay of Plenty
+
+### Australia
+division	Western Australia
+division	Northern Territory
+division	Australia
+division	South Australia
+division	Victoria
+division	Queensland
+division	New South Wales
+division	Tasmania
+division	Australian Capital Territory
+
+### Papua New Guinea
+division	Papua New Guinea
+
+### Guam
+division	Guam
+
+################
+
+# Africa
+
+### Gambia
+division	Kombo
+division	West Coast Region
+
+### Senegal
+division	Dakar
+division	Thies
+division	St-Louis
+division	Diourbel
+division	Kolda
+division	Senegal
+
+### Sierra Leone
+division	Sierra Leone
+
+### Guinea
+division	Conakry
+
+### Liberia
+division	Liberia
+
+### Côte d'Ivoire
+division	Guiglo
+division	Séguéla
+division	Bouafle
+division	Beoumi
+division	Côte d'Ivoire
+division	Yamoussoukro
+division	Katiola
+division	Bouaké
+
+### Morocco
+division	Casablanca
+division	Mohammedia
+division	Harhoura
+division	Temara
+division	Rabat
+division	Salé
+division	Morocco
+division	Ouarzazate
+
+### Mali
+division	Bamako
+division	Mopti
+division	Timbuktu
+division	Mali
+
+### Burkina Faso
+division	Cascades
+division	Hauts-Bassins
+division	Sud-Ouest
+division	Burkina Faso
+
+### Ghana
+division	Greater Accra
+division	Volta
+division	Ghana
+
+### Togo
+division	Togo
+
+### Benin
+division	Cotonou
+division	Oueme
+
+### Algeria
+division	Adrar
+division	Ouargla
+division	El Oued
+division	Laghouat
+division	Bordj-Bou-Arreridj
+division	Sétif
+division	Bouira
+division	Blida
+division	Tipaza
+division	Boufarik
+division	Tizi-Ouzou
+division	Alger
+
+### Nigeria
+division	Lagos
+division	Ogun State
+division	Oyo State
+division	Kwara State
+division	Osun State
+division	Ondo State
+division	Ekiti State
+division	Niger State
+division	Edo
+division	Delta
+division	Kogi State
+division	Rivers
+division	Federal Capital Territory
+division	Enugu
+division	Abuja
+division	Katsina State
+division	Akwa-Ibom
+division	Kaduna State
+division	Nigeria
+division	Ebonyi
+division	Nasarawa State
+division	Kano State
+division	Benue State
+division	Borno State
+
+### Tunisia
+division	Medenine
+division	Tunisia
+division	Gafsa
+division	Sfax
+division	Monastir
+division	Nabeul
+division	Soliman
+division	Ben Arous
+division	Tunis
+division	Ariana
+division	Bizerte
+
+### Niger
+division	Niger
+
+### Equatorial Guinea
+division	Litoral
+division	Equatorial Guinea
+division	Bioko Sur
+division	Bioko Norte
+
+### Gabon
+division	Libreville
+
+### Cameroon
+division	Yaounde
+division	Cameroon
+
+### Republic of the Congo
+division	Brazzaville
+
+### Democratic Republic of the Congo
+division	Kongo Central
+division	Kisantu
+division	Kinshasa
+division	Democratic Republic of the Congo
+division	Haut-Katanga
+division	Sud Kivu
+division	Nord Kivu
+
+### Botswana
+division	Gaborone
+division	Francistown
+division	Maun
+
+### South Africa
+division	Western Cape Province
+division	Northern Cape
+division	South Africa
+division	North-West
+division	Eastern Cape
+division	Free State
+division	Gauteng
+division	Limpopo
+division	Mpumalanga
+division	KwaZulu-Natal
+
+### Zambia
+division	Lusaka
+
+### Zimbabwe
+division	Zimbabwe
+
+### Rwanda
+division	Rwanda
+division	Kigali
+
+### Egypt
+division	Nile River Cruise
+division	Egypt
+division	Faiyum
+division	Cairo
+division	Kalyoubia
+
+### Uganda
+division	Uganda
+
+### Mozambique
+division	Gaza
+division	Mozambique
+division	Manica
+division	Cabo Delgado
+
+### Tanzania
+division	Tanzania
+
+### Kenya
+division	Kwale
+division	Mombasa
+division	Taita Taveta
+division	Kilifi
+division	Lamu
+division	Kajiado
+division	Tana River
+division	Kenya
+
+### Ethiopia
+division	Ethiopia
+
+### Madagascar
+division	Analamanga
+division	Toamasina
+division	Analanjirofo
+
+### Somalia
+division	Somalia
+
+################
+
+# Europe
+
+### Iceland
+division	Reykjavik
+
+### Portugal
+division	Beja
+division	Lisbon
+division	Santarem
+division	Portugal
+division	Coimbra
+
+### Ireland
+division	Kerry
+division	Mayo
+division	Galway
+division	Clare
+division	Limerick
+division	Sligo
+division	Cork
+division	Roscommon
+division	Tipperary
+division	Leitrim
+division	Ireland
+division	Donegal
+division	Offaly
+division	Longford
+division	Laois
+division	Westmeath
+division	Cavan
+division	Kilkenny
+division	Waterford
+division	Monaghan
+division	Carlow
+division	Kildare
+division	Wexford
+division	Meath
+division	Louth
+division	Dublin
+division	Wicklow
+
+### Spain
+division	Canary Islands
+division	Grand Canary Islands
+division	Galicia
+division	Extremadura
+division	Asturias
+division	Ceuta
+division	Andalusia
+division	Castilla y Leon
+division	Cantabria
+division	Spain
+division	Madrid
+division	Castilla la Mancha
+division	Melilla
+division	La Rioja
+division	Basque Country
+division	Navarra
+division	Murcia
+division	Aragon
+division	Comunitat Valenciana
+division	Catalunya
+division	Balear Islands
+
+### United Kingdom
+division	Gibraltar
+division	Wales
+division	England
+division	United Kingdom
+division	Northern Ireland
+division	Scotland
+
+### Andorra
+division	Andorra
+
+### France
+division	Bretagne
+division	Pays de la Loire
+division	Normandie
+division	Nouvelle-Aquitaine
+division	Centre-Val de Loire
+division	France
+division	Ile de France
+division	Hauts de France
+division	Occitanie
+division	Auvergne-Rhône-Alpes
+division	Bourgogne-France-Comté
+division	Grand Est
+division	Provence-Alpes-Côte d'Azur
+division	Lorraine
+division	Corse
+
+### Belgium
+division	Veurne
+division	Diksmuide
+division	Ieper
+division	Oostende
+division	Roeselare
+division	Brugge
+division	Kortrijk
+division	Tielt
+division	Tournai-Mouscron
+division	Eeklo
+division	Oudenaarde
+division	Gent
+division	Ath
+division	Oost-Vlaanderen
+division	Mons
+division	Hainaut
+division	Soignies
+division	Aalst
+division	Dendermonde
+division	Sint-Niklaas
+division	La Louvière
+division	Thuin
+division	Nivelles
+division	Brussels
+division	Antwerpen
+division	Halle-Vilvoorde
+division	Charleroi
+division	Mechelen
+division	Brabant Wallon
+division	Philippeville
+division	Belgium
+division	Leuven
+division	Namur
+division	Dinant
+division	Turnhout
+division	Huy
+division	Waremme
+division	Hasselt
+division	Limburg BE
+division	Tongeren
+division	Liège
+division	Maaseik
+division	Verviers
+
+### Netherlands
+division	St Eustatius
+division	Zeeland
+division	Leiden
+division	South Holland
+division	North Holland
+division	Utrecht
+division	North Brabant
+division	Netherlands
+division	Flevoland
+division	Friesland
+division	Limburg
+division	Roermond
+division	Gelderland
+division	Overijssel
+division	Groningen
+division	Drenthe
+
+### Luxembourg
+division	Luxembourg
+
+### Switzerland
+division	Geneva
+division	Vaud
+division	Neuchâtel
+division	Fribourg
+division	Jura
+division	Solothurn
+division	Valais
+division	Bern
+division	Basel-Stadt
+division	Basel-Land
+division	Aargau
+division	Switzerland
+division	Obwalden
+division	Lucerne
+division	Nidwalden
+division	Zug
+division	Uri
+division	Schaffhausen
+division	Zürich
+division	Schwyz
+division	Ticino
+division	Glarus
+division	Thurgau
+division	Appenzell Ausserrhoden
+division	Sankt Gallen
+division	Graubünden
+
+### Norway
+division	Rogaland
+division	Vestland
+division	Vestlandet
+division	More Og Romsdal
+division	Agder
+division	Vestfold Og Telemark
+division	Viken
+division	Trondelag
+division	Trondheim
+division	Innlandet
+division	Oslo
+division	Norway
+division	Nordland
+division	Troms Og Finnmark
+
+### Denmark
+division	Faroe Islands
+division	Syddanmark
+division	Midtjylland
+division	Denmark
+division	Nordjylland
+division	Sjaelland
+division	Hovedstaden
+division	Copenhagen
+
+### Germany
+division	Saarland
+division	Rheinland-Pfalz
+division	North Rhine Westphalia
+division	Bremen
+division	Niedersachsen
+division	Baden-Wuerttemberg
+division	Hesse
+division	Schleswig-Holstein
+division	Hamburg
+division	Germany
+division	Thuringia
+division	Bavaria
+division	Saxony-Anhalt
+division	Mecklenburg-Vorpommern
+division	Brandenburg
+division	Berlin
+division	Saxony
+
+### Europe
+division	Europe
+
+### Italy
+division	Valle D'Aosta
+division	Piedmont
+division	Sardinia
+division	Lombardy
+division	Trentino
+division	Emilia-Romagna
+division	Tuscany
+division	Trentino-Alto Adige
+division	South Tyrol
+division	Italian cruise ship
+division	Italy
+division	Veneto
+division	Umbria
+division	Lazio
+division	Friuli Venezia Giulia
+division	Marche
+division	Abruzzo
+division	Sicily
+division	Molise
+division	Campania
+division	Basilicata
+division	Apulia
+
+### Malta
+division	Malta
+
+### Slovenia
+division	Slovenia
+
+### Sweden
+division	Skane
+division	Blekinge
+division	Kalmar
+division	Kronoberg
+division	Halland
+division	Gotland
+division	Småland
+division	Jonkoping
+division	Vastra Gotaland
+division	Ostergotland
+division	Sodermanland
+division	Sormland
+division	Orebro
+division	Stockholm
+division	Orebro Lan
+division	Vastmanland
+division	Sweden
+division	Uppsala
+division	Varmland
+division	Dalarna
+division	Gavleborgs Lan
+division	Jamtland Harjedalen
+division	Jamtland
+division	Vasternorrland
+division	Vasterbotten
+division	Norrbotten
+
+### Austria
+division	Vorarlberg
+division	Tyrol
+division	Salzburg
+division	Upper Austria
+division	Styria
+division	Austria
+division	Lower Austria
+division	Vienna
+division	Burgenland
+
+### Croatia
+division	Pula
+division	Istria
+division	Croatia
+division	Zagreb
+division	Varaždin County
+division	Varazdin
+division	Split
+division	Koprivnica
+division	Dubrovnik
+division	Osijek
+
+### Czech Republic
+division	Plzeň Region
+division	Usti nad Labem
+division	Litomerice-Brnay
+division	Prague
+division	Melnik
+division	Southern Bohemia Region
+division	Central Bohemian Region
+division	Liberec Region
+division	Czech Republic
+division	Jihlava
+division	Vysocina Region
+division	Pardubice Region
+division	Hradec Králové Region
+division	South Moravian Region
+division	Olomouc Region
+division	Zlin
+division	Hranice Na Moravě
+division	Moravian-Silesian Region
+
+### Bosnia and Herzegovina
+division	Bihac
+division	Cazin
+division	Livno
+division	Čelinac
+division	Gornji Vakuf
+division	Novi Travnik
+division	Bosnia and Herzegovina
+division	Vitez
+division	Mostar
+division	Zepce
+division	Maglaj
+division	Kakanj
+division	Breza
+division	Ilijas
+division	Ilidza
+division	Sarajevo
+division	Tuzla
+division	Gorazde
+
+### Poland
+division	Zielonogorskie
+division	Dolnośląskie
+division	Wielkopolskie
+division	Opolskie
+division	Pomorskie
+division	Slask
+division	Poland
+division	Łódzkie
+division	Malopolskie
+division	Warminsko-Mazurskie
+division	Mazowieckie
+division	Masovia
+
+### Slovakia
+division	Kostoliste
+division	Bratislava
+division	Pezinok
+division	Miloslavov
+division	Jatov
+division	Kamenicna
+division	Tvrdosovce
+division	Nitra
+division	Nove Zamky
+division	Surany
+division	Levice
+division	Zilina
+division	Martin
+division	Slovakia
+division	Doľany
+division	Kosice
+division	Pavlovce nad Uhom
+
+### Montenegro
+division	Montenegro
+
+### Albania
+division	Albania
+
+### Hungary
+division	Győr-Moson-Sopron County
+division	Somogy County
+division	Balatonfured
+division	Veszprém County
+division	Baranya County
+division	Central Hungary
+division	Balassagyarmat
+division	Pest County
+division	Bács-Kiskun County
+division	Kecskemet
+division	Hungary
+division	Szeged
+division	Csongrád County
+division	Heves County
+division	Bekesszentandras
+division	Jász-Nagykun-Szolnok County
+division	Oroshaza
+division	Borsod-Abaúj-Zemplén County
+division	Békés County
+division	Hajdú-Bihar County
+division	Debrecen
+division	Szabolcs-Szatmár-Bereg County
+
+### Serbia
+division	Raška District
+division	Rasina District
+division	Zlatibor District
+division	Serbia
+division	Moravica District
+division	Pomoravlje District
+division	Šumadija District
+division	Sabac
+division	Srem District
+division	South Banat District
+division	Central Banat District
+division	South Bačka District
+division	North Banat District
+division	North Bačka District
+
+### Kosovo
+division	Kosovo
+division	Kosovska Mitrovica
+
+### North Macedonia
+division	Southwestern Region
+division	Skopje
+division	Pelagonia
+division	North Macedonia
+division	Vardar
+division	Northeastern Region
+division	Eastern Region
+division	Southeastern Region
+
+### Greece
+division	Greece
+division	Thessaloniki
+division	Central Greece
+division	Athens
+division	South Aegean Region
+
+### Lithuania
+division	Klaipedos Apskritis
+division	Telsiai
+division	Taurages Apskritis
+division	Marijampoles Apskritis
+division	Lithuania
+division	Alytaus Apskritis
+division	Kauno Apskritis
+division	Jonavos Apskritis
+division	Vilnius
+division	Utena
+
+### Romania
+division	Sanmihaiu Roman
+division	Vrancea
+division	Hunedoara
+division	Romania
+division	Arges
+division	Mioveni
+division	Valcea
+division	Teleorman
+division	Giurgiu
+division	Ploiesti
+division	Bucharest
+division	Suceava
+division	Buzau
+division	Constanta
+
+### Bulgaria
+division	Kyustendil
+division	Vidin
+division	Blagoevgrad
+division	Dupnitza
+division	Sofia
+division	Pazardzhik
+division	Pleven
+division	Smolyan
+division	Bulgaria
+
+### Latvia
+division	Riga
+division	Latvia
+
+### Estonia
+division	Estonia
+
+### Finland
+division	Helsinki
+division	Uusimaa
+division	Finland
+
+### Belarus
+division	Minsk
+division	Minsk Region
+division	Belarus
+division	Vitebsk Region
+division	Mogilev Region
+division	Gomel Region
+
+### Moldova
+division	Cahul
+division	Chisinau
+division	Straseni
+division	Moldova
+division	Rezina
+division	Balti
+division	Soroca
+
+### Ukraine
+division	Ivano-Frankivsk
+division	Volyn
+division	Chernivtsi
+division	Kyiv
+division	Ukraine
+division	Crimea
+division	Kharkiv
+
+### Cyprus
+division	Cyprus
+
+### Turkey
+division	Canakkale
+division	Tekirdag
+division	Balikesir
+division	Istanbul
+division	Bursa
+division	Denizli
+division	Kocaeli
+division	Sakarya
+division	Eskisehir
+division	Afyon
+division	Konya
+division	Ankara
+division	Karaman
+division	Kastamonu
+division	Aksaray
+division	Nevsehir
+division	Turkey
+division	Kayseri
+division	Tokat
+division	Kahramanmaras
+division	Adıyaman
+division	Mardin
+division	Siirt
+division	Agri
+division	Kars Province
+
+### Russia
+division	Kaliningrad Region
+division	Pskov Oblast
+division	Saint-Petersburg
+division	Leningrad Oblast
+division	Novgorod
+division	Bryansk Oblast
+division	Karelia
+division	Tver
+division	Murmansk
+division	Kaluga
+division	Oryol
+division	Tula Region
+division	Moscow Oblast
+division	Yaroslavl
+division	Lipetsk
+division	Krasnodar
+division	Rostov
+division	Ryazan
+division	Voronezh
+division	Adygea
+division	Vladimir Region
+division	Tambov Region
+division	Ivanovo
+division	Karachay-Cherkess
+division	Kabardino-Balkaria
+division	Stavropol
+division	Nizhny Novgorod
+division	Republic of North Ossetia-Alania
+division	Volgograd Region
+division	Republic of Mordovia
+division	Penza
+division	Ingushetia
+division	Kalmykia
+division	Chechen Republic
+division	Saratov
+division	Dagestan
+division	Mari El
+division	Astrakhan Region
+division	Samara
+division	Tatarstan
+division	Komi
+division	Orenburg
+division	Perm Krai
+division	Bashkortostan
+division	Chelyabinsk
+division	Sverdlovsk
+division	Khanty-Mansi
+division	Tyumen Region
+division	Omsk
+division	Yamalo-Nenets
+division	Novosibirsk
+division	Altai Krai
+division	Kemerovo
+division	Khakassia
+division	Krasnoyarsk
+division	Russia
+division	Irkutsk Region
+division	Buryatia
+division	Republic of Sakha
+division	Khabarovsk
+division	Primorsky
+division	Amur Region
+division	Sakhalin
+division	Kamchatka Krai
+
+################
+
+# South America
+
+### Argentina
+division	Tierra del Fuego
+division	Rio Negro
+division	Neuquen
+division	Buenos Aires
+division	Argentina
+division	Cordoba AR
+division	Santa Fe
+division	Tucuman
+division	Chaco
+
+### Uruguay
+division	Maldonado
+division	Montevideo
+division	Rocha
+division	Treinta y Tres
+division	Cerro Largo
+division	Rivera
+division	Artigas
+
+### Chile
+division	Magallanes
+division	Aysén
+division	Los Lagos
+division	Araucanía
+division	Biobío
+division	Ñuble
+division	Maule
+division	O'Higgins
+division	Region Metropolitana de Santiago
+division	Valparaiso
+division	Coquimbo
+division	Atacama
+division	Antofagasta
+division	Arica and Parinacota
+
+### South America
+division	South America
+
+### Brazil
+division	Acre
+division	Amazonas BR
+division	Rondonia
+division	Mato Grosso
+division	Rio Grande do Sul
+division	Brazil
+division	Para
+division	Paraná
+division	Amapa
+division	Santa Catarina
+division	Goiás
+division	Distrito Federal
+division	São Paulo
+division	Maranhão
+division	Minas Gerais
+division	Rio de Janeiro
+division	Piaui
+division	Bahia
+division	Espirito Santo
+division	Ceará
+division	Sergipe
+division	Pernambuco
+division	Rio Grande do Norte
+division	Paraiba
+division	Alagoas
+division	Brazilian Cruise
+
+### Peru
+division	Moquegua
+division	Arequipa
+division	Ica
+division	Cuzco
+division	Callao
+division	Lima
+division	Junin
+division	Peru
+division	Huanuco
+division	Ancash
+division	Ucayali
+division	La Libertad
+division	Lambayeque
+division	Cajamarca
+division	Amazonas PE
+division	Loreto
+
+### Ecuador
+division	Galapagos
+division	Santa Elena
+division	Tungurahua
+division	Cotopaxi
+division	Manabi
+division	Guayas
+division	Daule
+division	El Oro
+division	Loja
+division	Los Rios
+division	Esmeraldas
+division	Ecuador
+division	Azuay
+division	Santo Domingo
+division	Bolivar EC
+division	Cañar
+division	Zamora-Chinchipe
+division	Chimborazo
+division	Pichincha
+division	Imbabura
+division	Carchi
+division	Morona Santiago
+division	Napo
+division	Pastaza
+division	Sucumbios
+division	Orellana
+
+### Colombia
+division	Departamento de Amazonas
+division	Caqueta
+division	Narino
+division	Cauca
+division	Huila
+division	Colombia
+division	Meta
+division	Valle del Cauca
+division	Tolima
+division	Quindio
+division	Bogota
+division	Cartago CO
+division	Risaralda
+division	Cundinamarca
+division	Caldas
+division	Boyaca
+division	Choco
+division	Antioquia
+division	Santander
+division	San Andres
+division	Norte de Santander
+division	Cordoba CO
+division	Bolivar
+division	Cesar
+division	Magdalena
+division	Atlantico
+division	San Andres y Providencia
+
+### Suriname
+division	Suriname
+
+### Venezuela
+division	Venezuela
+
+### Trinidad
+division	Trinidad
+
+### Curacao
+division	Curacao
+
+### Aruba
+division	Aruba
+
+################
+
+# North America
+
+### Panama
+division	Chiriqui
+division	Bocas del Toro
+division	Panama
+division	Santiago de Veraguas
+division	Herrera
+division	Cocle
+division	Los Santos
+division	Colon
+division	Panama Oeste
+division	Panama City
+division	Panama Center
+division	Guna Yala
+
+### Costa Rica
+division	Guanacaste
+division	Puntarenas
+division	Alajuela
+division	Heredia
+division	San Jose
+division	Costa Rica
+division	Cartago CR
+division	Limon
+
+### Nicaragua
+division	Nicaragua
+
+### Saint Vincent and the Grenadines
+division	Saint Vincent and the Grenadines
+
+### El Salvador
+division	San Salvador
+
+### Guatemala
+division	Guatemala
+
+### Guadeloupe
+division	Vieux Habitants
+division	Basse-Terre
+division	Sainte-Rose
+division	Trois-Rivières
+division	Lamentin
+division	Baie-Mahault
+division	Guadeloupe
+division	Les Abymes
+division	Le Gosier
+division	Morne À l'Eau
+division	Sainte-Anne
+division	Le Moule
+division	Métropole
+division	Saint-François
+
+### Belize
+division	Belize
+division	Belmopan
+
+### Antigua and Barbuda
+division	Antigua and Barbuda
+
+### Saint Kitts and Nevis
+division	Saint Kitts and Nevis
+
+### Saint Barthélemy
+division	Saint Barthélemy
+
+### Saint Martin
+division	Saint Martin
+
+### Jamaica
+division	Jamaica
+
+### Dominican Republic
+division	Dominican Republic
+
+### Mexico
+division	Baja California
+division	Baja California Sur
+division	Sonora
+division	Sinaloa
+division	Chihuahua
+division	Nayarit
+division	Durango
+division	Colima
+division	Jalisco
+division	Guadalajara
+division	Zacatecas
+division	Aguascalientes
+division	Coahuila
+division	Michoacan
+division	Guanajuato
+division	San Luis Potosi
+division	Queretaro
+division	Nuevo Leon
+division	Guerrero
+division	Estado de Mexico
+division	Mexico City
+division	Mexico
+division	Hidalgo
+division	Morelos
+division	Tamaulipas
+division	Puebla
+division	Tlaxcala
+division	Veracruz
+division	Oaxaca
+division	Chiapas
+division	Tabasco
+division	Campeche
+division	Yucatan
+division	Quintana Roo
+
+### Cuba
+division	Cuba
+
+### North America
+division	North America
+
+### Bermuda
+division	Bermuda
+
+### USA
+division	Hawaii
+division	Alaska
+division	Grand Princess 2nd cruise
+division	Grand Princess
+division	Oregon
+division	Washington
+division	California
+division	Nevada
+division	Idaho
+division	Utah
+division	Arizona
+division	Montana
+division	Wyoming
+division	New Mexico
+division	Colorado
+division	North Dakota
+division	South Dakota
+division	Nebraska
+division	Texas
+division	USA
+division	Kansas
+division	Oklahoma
+division	Minnesota
+division	Iowa
+division	Louisiana
+division	Arkansas
+division	Missouri
+division	Mississippi
+division	Wisconsin
+division	Illinois
+division	Alabama
+division	Tennessee
+division	Indiana
+division	Kentucky
+division	Michigan
+division	Georgia
+division	Ohio
+division	Florida
+division	South Carolina
+division	West Virginia
+division	North Carolina
+division	Virginia
+division	Pennsylvania
+division	Washington DC
+division	Maryland
+division	Delaware
+division	New Jersey
+division	New York
+division	Connecticut
+division	Vermont
+division	Massachusetts
+division	New Hampshire
+division	Rhode Island
+division	Maine
+division	Puerto Rico
+division	Virgin Islands
+division	Diamond Princess
+
+### Canada
+division	British Columbia
+division	Alberta
+division	Canada
+division	Manitoba
+division	Ontario
+division	Quebec
+division	New Brunswick
+division	Nova Scotia
+division	Newfoundland and Labrador
+
+################
+
+################
+
+
+
+# Asia
+country	Israel
+country	Palestine
+country	Lebanon
+country	Jordan
+country	Georgia
+country	Iraq
+country	Armenia
+country	Saudi Arabia
+country	Kuwait
+country	Yemen
+country	Bahrain
+country	Qatar
+country	Iran
+country	United Arab Emirates
+country	Oman
+country	Uzbekistan
+country	Afghanistan
+country	Kazakhstan
+country	Pakistan
+country	Tajikistan
+country	Maldives
+country	Kyrgyzstan
+country	India
+country	Sri Lanka
+country	Nepal
+country	Asia
+country	Bangladesh
+country	Myanmar
+country	Thailand
+country	Malaysia
+country	Mongolia
+country	Singapore
+country	China
+country	Cambodia
+country	Vietnam
+country	Hong Kong
+country	Indonesia
+country	Brunei
+country	Taiwan
+country	Philippines
+country	Timor-Leste
+country	South Korea
+country	Japan
+
+# Oceania
+country	New Zealand
+country	Australia
+country	Papua New Guinea
+country	Guam
+
+# Africa
+country	Gambia
+country	Senegal
+country	Sierra Leone
+country	Guinea
+country	Liberia
+country	Côte d'Ivoire
+country	Morocco
+country	Mali
+country	Burkina Faso
+country	Ghana
+country	Togo
+country	Benin
+country	Algeria
+country	Nigeria
+country	Tunisia
+country	Niger
+country	Equatorial Guinea
+country	Gabon
+country	Cameroon
+country	Republic of the Congo
+country	Democratic Republic of the Congo
+country	Botswana
+country	South Africa
+country	Zambia
+country	Zimbabwe
+country	Rwanda
+country	Egypt
+country	Uganda
+country	Mozambique
+country	Tanzania
+country	Kenya
+country	Ethiopia
+country	Madagascar
+country	Somalia
+
+# Europe
+country	Iceland
+country	Portugal
+country	Ireland
+country	Spain
+country	United Kingdom
+country	Andorra
+country	France
+country	Belgium
+country	Netherlands
+country	Luxembourg
+country	Switzerland
+country	Norway
+country	Denmark
+country	Germany
+country	Europe
+country	Italy
+country	Malta
+country	Slovenia
+country	Sweden
+country	Austria
+country	Croatia
+country	Czech Republic
+country	Bosnia and Herzegovina
+country	Poland
+country	Slovakia
+country	Montenegro
+country	Albania
+country	Hungary
+country	Serbia
+country	Kosovo
+country	North Macedonia
+country	Greece
+country	Lithuania
+country	Romania
+country	Bulgaria
+country	Latvia
+country	Estonia
+country	Finland
+country	Belarus
+country	Moldova
+country	Ukraine
+country	Cyprus
+country	Turkey
+country	Russia
+
+# South America
+country	Argentina
+country	Uruguay
+country	Chile
+country	South America
+country	Brazil
+country	Peru
+country	Ecuador
+country	Colombia
+country	Suriname
+country	Venezuela
+country	Trinidad
+country	Curacao
+country	Aruba
+
+# North America
+country	Panama
+country	Costa Rica
+country	Nicaragua
+country	Saint Vincent and the Grenadines
+country	El Salvador
+country	Guatemala
+country	Guadeloupe
+country	Belize
+country	Antigua and Barbuda
+country	Saint Kitts and Nevis
+country	Saint Barthélemy
+country	Saint Martin
+country	Jamaica
+country	Dominican Republic
+country	Mexico
+country	Cuba
+country	North America
+country	Bermuda
+country	USA
+country	Canada
+
+################
+
+
+recency	Older
+recency	One month ago
+recency	One week ago
+recency	3-7 days ago
+recency	1-2 days ago
+recency	New
+region	Asia
+region	Oceania
+region	Africa
+region	Europe
+region	South America
+region	North America
+
+################
+
+

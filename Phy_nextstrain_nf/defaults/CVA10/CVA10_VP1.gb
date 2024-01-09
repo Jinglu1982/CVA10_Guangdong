@@ -1,0 +1,51 @@
+LOCUS       AY421767                894 bp ss-RNA     linear   VRL 28-MAY-2004
+DEFINITION  Human coxsackievirus A10 strain Kowalik, complete genome.
+ACCESSION   AY421767
+VERSION     AY421767.1
+KEYWORDS    .
+SOURCE      Coxsackievirus A10 (CV-A10)
+  ORGANISM  Coxsackievirus A10
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Picornavirales; Picornaviridae; Ensavirinae; Enterovirus;
+            Enterovirus A.
+REFERENCE   1  (bases 1 to 895)
+  AUTHORS   Oberste,M.S., Penaranda,S., Maher,K. and Pallansch,M.A.
+  TITLE     Complete genome sequences of all members of the species Human
+            enterovirus A
+  JOURNAL   J. Gen. Virol. 85 (PT 6), 1597-1607 (2004)
+   PUBMED   15166444
+REFERENCE   2  (bases 1 to 7409)
+  AUTHORS   Oberste,M.S., Penaranda,S., Maher,K. and Pallansch,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-SEP-2003) Respiratory and Enteric Virus Branch,
+            Centers for Disease Control and Prevention, 1600 Clifton Rd NE,
+            Mailstop G-17, Atlanta, GA 30333, USA
+FEATURES             Location/Qualifiers
+
+     source          1..894
+                     /gene="VP1"
+                     /note="1D"
+     CDS             1..894
+                     /gene="VP1"
+                     /note="1D"
+                     /codon_start=1
+                     /product="VP1 protein"
+                     /protein_id="AAR38847.1"
+
+ORIGIN
+        1 ggcgaccccg tggaggacat catccacgac gctttgagca gcactgtgcg gcgggccata
+       61 actagtggtc aagatgtcaa cacagcggcc ggtaccgctc ctagctctca caggttggag
+      121 actggtcgtg ttcccgccct acaagcagca gaaactggag ccacttctaa cgctacagat
+      181 gagaacatga tagaaacgcg gtgtgtcatg aacagaaatg gagtgttgga ggcgactata
+      241 agtcatttct tctcacgctc aggtttggtg ggtgttgtca atctaactga cggaggcacc
+      301 gatacaacgg gatatgcagt gtgggacatt gacatcatgg gttttgtgca actgcggcgg
+      361 aaatgtgaga tgttcacata catgagattc aacgctgagt tcacattcgt cactacaaca
+      421 gaaaatggcg aggcaaggcc atttatgtta cagtatatgt atgtacctcc aggtgcccct
+      481 aagccaacgg gtagagatgc ttttcagtgg caaacagcga caaatccatc cgttttcgtt
+      541 aagctcacag atccacctgc tcaggtatca gtccccttca tgtcacctgc tagtgcctac
+      601 caatggttct atgacgggta tccaacattt ggacaacacc cggaaacatc taatacaaca
+      661 tatggacagt gccctaacaa catgatgggg acctttgctg tgagagtagt gagtagagtg
+      721 gctagccagc tcaaactaca gacacgagtg tatatgaagc ttaagcatgt gagagcatgg
+      781 atccctaggc caataagatc ccagccttac ctcctaaaga attttccaaa ttatgatagt
+      841 agtaagatca catacagcgc aagagatcgt gccagcataa aacaagctaa tatg
+//

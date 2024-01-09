@@ -1,0 +1,56 @@
+{
+  "title": "Phylogenetic analysis by using augur tools with nf pipeline",
+  "build_url": "https://github.com/nextstrain/",
+  "maintainers": [
+    {"name": "IPHnano team"}
+  ],
+  "colorings": [
+    {
+      "key": "location",
+      "title": "Location",
+      "type": "categorical"
+    },
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    },
+    {
+      "key": "division",
+      "title": "Division",
+      "type": "categorical"
+    },    
+    {
+      "key": "clade",
+      "title": "clade",
+      "type": "categorical"
+    },
+    {
+      "key": "subclade",
+      "title": "subclade",
+      "type": "categorical"
+    }    
+  ],
+  "geo_resolutions": [
+    "location",
+    "country"
+  ],
+  "display_defaults": {
+    "color_by": "country",
+    "distance_measure": "num_date",
+    "geo_resolution": "country",
+    "map_triplicate": true,
+    "branch_label": "clade"
+  },
+  "filters": [
+    "country",
+    "location",
+    "division",
+    "clade"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ]
+}
